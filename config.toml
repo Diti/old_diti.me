@@ -2,6 +2,8 @@ baseurl = "http://localhost:1313/"
 canonifyurls = true
 languageCode = "en-us"
 metadataformat = "yaml"
+pygmentscodefences = true
+pygmentsuseclasses = true
 theme = "hyde"
 title = "Diti [dot] me"
 
