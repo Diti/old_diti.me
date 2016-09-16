@@ -40,7 +40,7 @@ Behold, the wall of code!
   2. [Create a list of these menu items, and populate it]({{< ref "#step-2" >}});
   3. [Place a `ListView` in one of your layouts]({{< ref "#step-3" >}});
   4. [Make the link between the item list and the `ListView`, using an `Adapter`]({{< ref "#step-4" >}});
-  5. [Implement the navigation and UX]]({{< ref "#step-5" >}}).
+  5. [Implement the navigation and UX]({{< ref "#step-5" >}}).
 
 ### Represent the menu items {#step-1}
 
