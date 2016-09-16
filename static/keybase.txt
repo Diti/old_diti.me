@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/diti
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://diti.me
+  * I am diti (https://keybase.io/diti) on keybase.
+  * I have a public key with fingerprint FD4F 1D56 6452 19A0 C6F6  F9AB 31A4 9121 CD42 FF00
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "fd4f1d56645219a0c6f6f9ab31a49121cd42ff00",
+            "host": "keybase.io",
+            "key_id": "31a49121cd42ff00",
+            "uid": "c2c08aa58225e3c1ac0a57e825506b00",
+            "username": "diti"
+        },
+        "service": {
+            "hostname": "diti.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402238216,
+    "expire_in": 157680000,
+    "prev": "4c9b674cb911c5b8d943a63aeeb7f8adbb8342e1a9dff177fbfc82bdd618637b",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGbwMvMwMWYt/xNB09VxjrG0wdeJzEETyk1qFZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSmkpJmmGKaZmZiamRoaWiQbJZmlmaZaJScaGiSaWhkaGySkmRmlpBgZK
+OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQFIv6UrBEslGygUVioqmFkZFpqnGyYWKy
+QaKpeaqFkampgVkSRGFxalFeYm4qUHVKZkmmUq2OElCkLDM5FeRekLVIsnpAlo5S
+QVF+SX5yfg5QMKOkpKDYCqSppLIApKo8NSkeqj8+KTMvBehfoI6y1KLizPw8JStD
+oMrkkkyQgYYmBkZGxhZGhmY6SqkVBZlFqfGZIBWm5mYWBkAAsie1DGikSbJlkpm5
+SXKSpaFhsmmSRYqliXGimXFiamqSeZpFYkpSkoWxiVGqYaJlSlqaobl5WlJasoVR
+UkqKmaGFmbF5khLIR4V5+UCzjYHuTEwHmlmcmZ6XWFJalKpUy9XJJMPCwMjFwMbK
+BIozBi5OAVhMXt8qwDBdjSExqf/H1Rfa3l63tqi17WnWYlxi2xr5Zt6tujU/9Nkr
+BPf7KVS9Kn1bE6BtEWO94l8qxxP+M2q3qwSF33ztsjqy99TbaZExNxXPyXStDo7/
+FejIUMgkarDQQFcncPfL5pmzmjgUN0xN6Dh0bv0JrWbpaU8zHl/4lTI9VNdi8tn0
+x2cZL38vihRRfynLybX6++kHyfNXME59uvxX5Drf9fJzAk/fXuMfv/b6cSEXk4MT
+lQ4Ec93mqTz6MuaHnomf6ee9MuYJDOfb13yVS/73IP+i6+mnr4yPrAhzX9Qx74EL
+s5i4qOVsJQk1628/HvX/vrxx23rHSQ8n3w/qTFuSzZT9xczuwPfpcw9Iyazo1PEs
+/umqv6mi75GNs6qSSPOO9UETv/zf7HvtrvaLFRV1Z8WmT+b66fpx48HMV8/nLXR9
+7cgicZH3c4tUyJE0gc93jHuOB8cErUt6W8nEl2kvsmBVzDa73zf53bc9Lb6wej2/
+ifrBxvuGMf93rHuzg5E/utreZGukxayM8s6gAumQSelHpu7Ya/5QJqpJqu3ntTlW
+7tsty8RTWs5Pv7H8zH77zDeMYhbv/qkY+u68sfPzlC1m3elL320IW2X853dX9d3k
+ufGdZ1re5KqcNlr3UGd6+zlxqXl+0RebJXi4f8qbO908kF6XF/v0Y1/h6ebSPcc7
+mkKUuqVmJnNNig3qK18h9DLe++FfV7lonyoA
+=RSph
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/diti
+
+==================================================================
+
