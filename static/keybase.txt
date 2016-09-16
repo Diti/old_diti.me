@@ -6,16 +6,16 @@ I hereby claim:
 
   * I am an admin of https://diti.me
   * I am diti (https://keybase.io/diti) on keybase.
-  * I have a public key with fingerprint FD4F 1D56 6452 19A0 C6F6  F9AB 31A4 9121 CD42 FF00
+  * I have a public key ASBgn_8nkBx_BEET2v22sXQj5KthqEf9xnsCu86mhrXodAo
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "fingerprint": "fd4f1d56645219a0c6f6f9ab31a49121cd42ff00",
+            "eldest_kid": "0101e9ee3ce35db1522db25bc6dd0f5304a769a5b0753a72b3913bb47c3a4d3ab1310a",
             "host": "keybase.io",
-            "key_id": "31a49121cd42ff00",
+            "kid": "0120609fff27901c7f044113dafdb6b17423e4ab61a847fdc67b02bbcea686b5e8740a",
             "uid": "c2c08aa58225e3c1ac0a57e825506b00",
             "username": "diti"
         },
@@ -26,39 +26,25 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1402238216,
-    "expire_in": 157680000,
-    "prev": "4c9b674cb911c5b8d943a63aeeb7f8adbb8342e1a9dff177fbfc82bdd618637b",
-    "seqno": 13,
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.6"
+    },
+    "ctime": 1450829926,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1450829842,
+        "hash": "87fcb16eee6173db351a67d3d4588311bbc650ce0e92ef811915327b340363a5a02d00768f39b33610a1a77cd4f50cebc6ea6919ba696f12d223813c07c26b48",
+        "seqno": 337724
+    },
+    "prev": "06aa51ee6135709057337a8a061ac1cbc12968dd5f337b96387aef4f55146387",
+    "seqno": 44,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
------BEGIN PGP MESSAGE-----
-
-owGbwMvMwMWYt/xNB09VxjrG0wdeJzEETyk1qFZKyk+pVLKqVspOBVNpmXnpqUUF
-RZl5JUpWSmkpJmmGKaZmZiamRoaWiQbJZmlmaZaJScaGiSaWhkaGySkmRmlpBgZK
-OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQFIv6UrBEslGygUVioqmFkZFpqnGyYWKy
-QaKpeaqFkampgVkSRGFxalFeYm4qUHVKZkmmUq2OElCkLDM5FeRekLVIsnpAlo5S
-QVF+SX5yfg5QMKOkpKDYCqSppLIApKo8NSkeqj8+KTMvBehfoI6y1KLizPw8JStD
-oMrkkkyQgYYmBkZGxhZGhmY6SqkVBZlFqfGZIBWm5mYWBkAAsie1DGikSbJlkpm5
-SXKSpaFhsmmSRYqliXGimXFiamqSeZpFYkpSkoWxiVGqYaJlSlqaobl5WlJasoVR
-UkqKmaGFmbF5khLIR4V5+UCzjYHuTEwHmlmcmZ6XWFJalKpUy9XJJMPCwMjFwMbK
-BIozBi5OAVhMXt8qwDBdjSExqf/H1Rfa3l63tqi17WnWYlxi2xr5Zt6tujU/9Nkr
-BPf7KVS9Kn1bE6BtEWO94l8qxxP+M2q3qwSF33ztsjqy99TbaZExNxXPyXStDo7/
-FejIUMgkarDQQFcncPfL5pmzmjgUN0xN6Dh0bv0JrWbpaU8zHl/4lTI9VNdi8tn0
-x2cZL38vihRRfynLybX6++kHyfNXME59uvxX5Drf9fJzAk/fXuMfv/b6cSEXk4MT
-lQ4Ec93mqTz6MuaHnomf6ee9MuYJDOfb13yVS/73IP+i6+mnr4yPrAhzX9Qx74EL
-s5i4qOVsJQk1628/HvX/vrxx23rHSQ8n3w/qTFuSzZT9xczuwPfpcw9Iyazo1PEs
-/umqv6mi75GNs6qSSPOO9UETv/zf7HvtrvaLFRV1Z8WmT+b66fpx48HMV8/nLXR9
-7cgicZH3c4tUyJE0gc93jHuOB8cErUt6W8nEl2kvsmBVzDa73zf53bc9Lb6wej2/
-ifrBxvuGMf93rHuzg5E/utreZGukxayM8s6gAumQSelHpu7Ya/5QJqpJqu3ntTlW
-7tsty8RTWs5Pv7H8zH77zDeMYhbv/qkY+u68sfPzlC1m3elL320IW2X853dX9d3k
-ufGdZ1re5KqcNlr3UGd6+zlxqXl+0RebJXi4f8qbO908kF6XF/v0Y1/h6ebSPcc7
-mkKUuqVmJnNNig3qK18h9DLe++FfV7lonyoA
-=RSph
------END PGP MESSAGE-----
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYJ//J5AcfwRBE9r9trF0I+SrYahH/cZ7ArvOpoa16HQKp3BheWxvYWTFAut7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZTllZTNjZTM1ZGIxNTIyZGIyNWJjNmRkMGY1MzA0YTc2OWE1YjA3NTNhNzJiMzkxM2JiNDdjM2E0ZDNhYjEzMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjA5ZmZmMjc5MDFjN2YwNDQxMTNkYWZkYjZiMTc0MjNlNGFiNjFhODQ3ZmRjNjdiMDJiYmNlYTY4NmI1ZTg3NDBhIiwidWlkIjoiYzJjMDhhYTU4MjI1ZTNjMWFjMGE1N2U4MjU1MDZiMDAiLCJ1c2VybmFtZSI6ImRpdGkifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRpdGkubWUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC42In0sImN0aW1lIjoxNDUwODI5OTI2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTA4Mjk4NDIsImhhc2giOiI4N2ZjYjE2ZWVlNjE3M2RiMzUxYTY3ZDNkNDU4ODMxMWJiYzY1MGNlMGU5MmVmODExOTE1MzI3YjM0MDM2M2E1YTAyZDAwNzY4ZjM5YjMzNjEwYTFhNzdjZDRmNTBjZWJjNmVhNjkxOWJhNjk2ZjEyZDIyMzgxM2MwN2MyNmI0OCIsInNlcW5vIjozMzc3MjR9LCJwcmV2IjoiMDZhYTUxZWU2MTM1NzA5MDU3MzM3YThhMDYxYWMxY2JjMTI5NjhkZDVmMzM3Yjk2Mzg3YWVmNGY1NTE0NjM4NyIsInNlcW5vIjo0NCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBHZB6k1tGWKR7PNMrXya95upM0dU/R0hcKyc4X2rzNgSkLJP97R5UXHcw5+/MkVqSu23/HxDjkm1Jmal+AdjwFqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -66,4 +52,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/diti
 
 ==================================================================
-
