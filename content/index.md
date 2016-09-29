@@ -12,7 +12,7 @@ I am a [42][SCHOOL] student, currently working at [Gemalto][WORK].
 <!-- On the internet, nobody knows I’m a penguin. -->
 
 I invite you to read about [**my experiments**][POSTS],
-<!-- to have a look at [my reading list][READS], -->
+to have a look at [my reading list][READS],
 and to [contact me][CONTACT] if you want to chat!
 
 Interests
