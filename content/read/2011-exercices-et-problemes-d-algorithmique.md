@@ -1,5 +1,4 @@
 ---
-draft: true
 language: fr
 title: Exercices et problèmes d’algorithmique
 author: [Nicolas Flasque, Franck Lepoivre, Helen Kassel, Boris Velikson]
