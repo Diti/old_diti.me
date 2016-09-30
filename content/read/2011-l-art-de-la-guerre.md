@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 
+title: L’Art de la guerre
 language: fr
 author: [Sun Tzu, Joseph-Marie Amiot]
 rating: 4/5
