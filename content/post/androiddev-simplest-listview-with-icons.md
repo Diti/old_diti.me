@@ -7,9 +7,10 @@ date: 2016-09-12T14:59:18+02:00
 title: The simplest way to include icons in a ListView
 ---
 
-At my current job, I have been asked to merge my application with a legacy project,
-already approved by marketing. During normal use, the application would display
-a navigation [`ListView`](https://developer.android.com/guide/topics/ui/layout/listview.html) at launch.
+At my current job, I have been asked to merge my application with a legacy
+project, already approved by marketing. During normal use, the application would
+display a navigation [`ListView`](https://developer.android.com/guide/topics/ui/layout/listview.html)
+at launch.
 
 {{< figure
   alt="Screenshot of the final result"
@@ -23,16 +24,6 @@ whenever I need to quickly implement it again.
 
 To achieve this result quickly and painlessly, I used a combination of
 _compound drawables_, and Android’s built-in list layouts.
-
----
-
-Behold, the wall of code!
-
-{{< gist Diti 6ad5167f4ebc53a7cf342697c21effea "ImageMenuItem.java" >}}
-{{< gist Diti 6ad5167f4ebc53a7cf342697c21effea "ImageMenuAdapter.java" >}}
-{{< gist Diti 6ad5167f4ebc53a7cf342697c21effea "MainActivity.java" >}}
-
----
 
 ## How it works
 
@@ -98,13 +89,14 @@ listView.setAdapter(new ImageMenuAdapter(this, menuItems));
 **All the magic happens in the [`ImageMenuAdapter`](https://gist.github.com/Diti/6ad5167f4ebc53a7cf342697c21effea#file-imagemenuadapter-java):**
 
   1. Tell the `Adapter` to
-  [use Android’s default `simple_list_item_1`](https://gist.github.com/Diti/6ad5167f4ebc53a7cf342697c21effea#file-imagemenuadapter-java-L19), and
+     [use Android’s default `simple_list_item_1`](https://gist.github.com/Diti/6ad5167f4ebc53a7cf342697c21effea#file-imagemenuadapter-java-L19), and
   2. Set the text, and
-  [set a compound drawable to the list item](https://gist.github.com/Diti/6ad5167f4ebc53a7cf342697c21effea#file-imagemenuadapter-java-L28-L29).
+     [set a compound drawable to the list item](https://gist.github.com/Diti/6ad5167f4ebc53a7cf342697c21effea#file-imagemenuadapter-java-L28-L29).
 
 ### Implement the navigation {#step-5}
 
-The reason we [previously declared constants]({{< ref "#step-2" >}}) for the menu items, is to properly handle navigation:
+The reason we [previously declared constants]({{< ref "#step-2" >}}) for the
+menu items, is to properly handle navigation:
 
 ``` java
 listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -123,6 +115,13 @@ listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 
 ---
 
-If you have any suggestion regarding this implementation (such as how to write it
-_in a way that makes it testable_, using MVP or MVVM patterns…), I would be delighted
-to read your comments!
+For those who would rather read actual code: 
+
+{{< gist Diti 6ad5167f4ebc53a7cf342697c21effea "ImageMenuItem.java" >}}
+{{< gist Diti 6ad5167f4ebc53a7cf342697c21effea "ImageMenuAdapter.java" >}}
+{{< gist Diti 6ad5167f4ebc53a7cf342697c21effea "MainActivity.java" >}}
+---
+
+If you have any suggestion regarding this implementation (such as how to write
+it _in a way that makes it testable_, using MVP or MVVM patterns…), I would be
+delighted to read your comments!

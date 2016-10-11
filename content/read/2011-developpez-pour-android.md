@@ -12,8 +12,8 @@ link:
 tags: [AndroidDev, dev]
 ---
 
-Écrit par [Cyril Mottier](http://cyrilmottier.com), ce livre, rendu partiellement
-obsolète depuis la sortie d’Android 4, discutait de thèmes intéressants liés
-à l’optimisation.
+Écrit par [Cyril Mottier](http://cyrilmottier.com), ce livre, rendu
+partiellement obsolète depuis la sortie d’Android 4, discutait de thèmes
+intéressants liés à l’optimisation.
 
 Il faudra que je le relise. N’hésitez pas à me faire part de votre intérêt. 

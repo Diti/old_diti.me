@@ -26,5 +26,5 @@ arbres binaires de recherche, arbres rouge et noir) –, le pseudo-code utilisé
 dans le livre me dérange : c’est le même que celui en usage à l’Efrei.
 
 Si vous avez connaissance d’un ouvrage de référence qui pourrait remplacer
-ce livre, je vous encourage à me le signaler. Ce genre de livre est (malheureusement)
-toujours utile pour préparer des entretiens.
+ce livre, je vous encourage à me le signaler. Ce genre de livre est
+(malheureusement) toujours utile pour préparer des entretiens.
