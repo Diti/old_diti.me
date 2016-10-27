@@ -42,9 +42,9 @@ aliases:
     <dt data-range="U+1F300–U+1F5FF">Miscellaneous Symbols and Pictographs</dt>
       <dd title="PENGUIN (U+1F427)" data-clipboard-text="🐧">🐧</dd>
     <dt data-range="U+1F900–U+1F9FF">Supplemental Symbols and Pictographs</dt>  
-      <dd title="KICK SCOOTER (U+1F6F4)" data-clipboard-text="�">�</dd>
-      <dd title="BAT (U+1F987)" data-clipboard-text="�">�</dd>
-      <dd title="OWL (U+1F989)" data-clipboard-text="�">�</dd>
+      <dd title="SCOOTER (U+1F6F4)" data-clipboard-text="🛴">🛴</dd>
+      <dd title="BAT (U+1F987)" data-clipboard-text="🦇">🦇</dd>
+      <dd title="OWL (U+1F989)" data-clipboard-text="🦉">🦉</dd>
   </dl>
 </div>
 
