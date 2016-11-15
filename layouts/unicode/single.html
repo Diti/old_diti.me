@@ -42,18 +42,16 @@
             {{ range where $glyphs "unicode.blk" "Latin_1_Sup" }}
             <dd class="{{ .unicode.blk | lower }}" title="{{ .code }} {{ .char }} {{ .unicode.na }}">{{ .char }}</dd>
             {{- end }}
-            <!--
-              -->
+
             <dt>General Punctuation</dt>
             {{ range where $glyphs "unicode.blk" "Punctuation" }}
             <dd title="{{ .code }} {{ .char }} {{ .unicode.na }}">{{ .char }}</dd>
-            {{ end }}
-            <!--
-              -->
+            {{- end }}
+
             <dt>Mathematical Operators</dt>
             {{ range where $glyphs "unicode.blk" "Math_Operators" }}
             <dd title="{{ .code }} {{ .char }} {{ .unicode.na }}">{{ .char }}</dd>
-            {{ end }}
+            {{- end }}
           </dl>
         </section>
 

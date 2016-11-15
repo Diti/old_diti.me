@@ -1,105 +1,97 @@
 glyphs:
 
-- char       : «
-  code       : U+00AB
-  description: left guillemet
+- char: «
+  code: U+00AB
   unicode:
     age: 1.1
-    na : left-pointing double angle quotation mark
+    na: left-pointing double angle quotation mark
     blk: Latin_1_Sup
-    gc : Pi
+    gc: Pi
 
-- char       : ·
-  code       : U+00B7 # (≠ U+22C5)
-  description: midpoint
+- char: ·
+  code: U+00B7 # (≠ U+22C5)
   unicode:
     age: 1.1
-    na : middle dot
+    na: middle dot
     blk: Latin_1_Sup
-    gc : Po
+    gc: Po
 
-- char       : »
-  code       : U+00BB
-  description: right guillemet
+- char: »
+  code: U+00BB
   unicode:
     age: 1.1
-    na : right-pointing double angle quotation mark
+    na: right-pointing double angle quotation mark
     blk: Latin_1_Sup
-    gc : Pf
+    gc: Pf
 
-- char       : ’
-  code       : U+2019
-  description: single comma quotation mark
+- char: ’
+  code: U+2019
   unicode:
     age: 1.1
-    na : right single quotation mark
+    na: right single quotation mark
     blk: Punctuation
-    gc : Pf
+    gc: Pf
 
-- char       : “
-  code       : U+201C
-  description: double turned comma quotation mark
+- char: “
+  code: U+201C
   unicode:
     age: 1.1
-    na : left double quotation mark
+    na: left double quotation mark
     blk: Punctuation
-    gc : Pi
+    gc: Pi
 
-- char       : ”
-  code       : U+201D
-  description: double comma quotation mark
+- char: ”
+  code: U+201D
   unicode:
     age: 1.1
-    na : right double quotation mark
+    na: right double quotation mark
     blk: Punctuation
-    gc : Pf
+    gc: Pf
 
 - char       : –
   code       : U+2013
   unicode:
     age: 1.1
-    na : en dash
+    na: en dash
     blk: Punctuation
-    gc : Pd
+    gc: Pd
 
-- char       : —
-  code       : U+2014
+- char: —
+  code: U+2014
   unicode:
     age: 1.1
-    na : em dash
+    na: em dash
     blk: Punctuation
-    gc : Pd
+    gc: Pd
 
-- char       : …
-  code       : U+2026
-  description: three dot leader
+- char: …
+  code: U+2026
   unicode:
     age: 1.1
-    na : horizontal ellipsis
+    na: horizontal ellipsis
     blk: Punctuation
-    gc : Po
+    gc: Po
 
-- char       : ≈
-  code       : U+2248
-  description: asymptotic to
+- char: ≈
+  code: U+2248
   unicode:
     age: 1.1
-    na : almost equal to
+    na: almost equal to
     blk: Math_Operators
-    gc : Sm
+    gc: Sm
 
-- char       : ≠
-  code       : U+2260
+- char: ≠
+  code: U+2260
   unicode:
     age: 1.1
-    na : not equal to
+    na: not equal to
     blk: Math_Operators
-    gc : Sm
+    gc: Sm
 
-- char       : ⋅
-  code       : U+22C5 # (≠ U+00B7)
+- char: ⋅
+  code: U+22C5 # (≠ U+00B7)
   unicode:
     age: 1.1
-    na : dot operator
+    na: dot operator
     blk: Math_Operators
-    gc : Sm
+    gc: Sm
