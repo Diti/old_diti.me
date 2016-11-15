@@ -1,0 +1,105 @@
+glyphs:
+
+- char       : «
+  code       : U+00AB
+  description: left guillemet
+  unicode:
+    age: 1.1
+    na : left-pointing double angle quotation mark
+    blk: Latin_1_Sup
+    gc : Pi
+
+- char       : ·
+  code       : U+00B7 # (≠ U+22C5)
+  description: midpoint
+  unicode:
+    age: 1.1
+    na : middle dot
+    blk: Latin_1_Sup
+    gc : Po
+
+- char       : »
+  code       : U+00BB
+  description: right guillemet
+  unicode:
+    age: 1.1
+    na : right-pointing double angle quotation mark
+    blk: Latin_1_Sup
+    gc : Pf
+
+- char       : ’
+  code       : U+2019
+  description: single comma quotation mark
+  unicode:
+    age: 1.1
+    na : right single quotation mark
+    blk: Punctuation
+    gc : Pf
+
+- char       : “
+  code       : U+201C
+  description: double turned comma quotation mark
+  unicode:
+    age: 1.1
+    na : left double quotation mark
+    blk: Punctuation
+    gc : Pi
+
+- char       : ”
+  code       : U+201D
+  description: double comma quotation mark
+  unicode:
+    age: 1.1
+    na : right double quotation mark
+    blk: Punctuation
+    gc : Pf
+
+- char       : –
+  code       : U+2013
+  unicode:
+    age: 1.1
+    na : en dash
+    blk: Punctuation
+    gc : Pd
+
+- char       : —
+  code       : U+2014
+  unicode:
+    age: 1.1
+    na : em dash
+    blk: Punctuation
+    gc : Pd
+
+- char       : …
+  code       : U+2026
+  description: three dot leader
+  unicode:
+    age: 1.1
+    na : horizontal ellipsis
+    blk: Punctuation
+    gc : Po
+
+- char       : ≈
+  code       : U+2248
+  description: asymptotic to
+  unicode:
+    age: 1.1
+    na : almost equal to
+    blk: Math_Operators
+    gc : Sm
+
+- char       : ≠
+  code       : U+2260
+  unicode:
+    age: 1.1
+    na : not equal to
+    blk: Math_Operators
+    gc : Sm
+
+- char       : ⋅
+  code       : U+22C5 # (≠ U+00B7)
+  unicode:
+    age: 1.1
+    na : dot operator
+    blk: Math_Operators
+    gc : Sm
