@@ -48,8 +48,8 @@ glyphs:
     blk: Punctuation
     gc: Pf
 
-- char       : –
-  code       : U+2013
+- char: –
+  code: U+2013
   unicode:
     age: 1.1
     na: en dash
@@ -95,3 +95,59 @@ glyphs:
     na: dot operator
     blk: Math_Operators
     gc: Sm
+
+- char: ☐
+  code: U+2610
+  unicode:
+    age: 1.1
+    na: ballot box
+    blk: Misc_Symbols
+    gc: So
+
+- char: ☑
+  code: U+2611
+  unicode:
+    age: 1.1
+    na: ballot box with check
+    blk: Misc_Symbols
+    gc: So
+
+- char: ☒
+  code: U+2612
+  unicode:
+    age: 1.1
+    na: ballot box with x
+    blk: Misc_Symbols
+    gc: So
+
+- char: ✓
+  code: U+2713
+  unicode:
+    age: 1.1
+    na: check mark
+    blk: Dingbats
+    gc: So
+
+- char: ✔
+  code: U+2714
+  unicode:
+    age: 1.1
+    na: heavy check mark
+    blk: Dingbats
+    gc: So
+
+- char: ✗
+  code: U+2717
+  unicode:
+    age: 1.1
+    na: ballot x
+    blk: Dingbats
+    gc: So
+
+- char: ✘
+  code: U+2718
+  unicode:
+    age: 1.1
+    na: heavy ballot x
+    blk: Dingbats
+    gc: So

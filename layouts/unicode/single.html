@@ -3,14 +3,23 @@
 <body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
   {{ partial "sidebar.html" . }}
   <style>
-    dl,
-    dt,
-    dd {
+    #unicode ul,
+    #unicode li,
+    #unicode dl,
+    #unicode dt,
+    #unicode dd {
       margin: 0;
     }
 
-    dd {
+    #unicode ul,
+    #unicode dl {
+      padding: 0;
+    }
+
+    #unicode dd,
+    #unicode li {
       display: inline-block;
+      margin-bottom: 4px;
       min-width: 2rem;
       font-size: xx-large;
       text-align: center;
@@ -18,11 +27,13 @@
       border: 1px solid #eee;
     }
 
-    dd:active {
+    #unicode dd:active,
+    #unicode li:active {
       background: #fe9;
     }
 
-    dd img {
+    #unicode dd img,
+    #unicode li img {
       max-width: 36px;
       max-height: 36px;
     }
@@ -32,27 +43,16 @@
     <div class="post">
       <h1>{{ .Title }}</h1>
       <div id="unicode">
-        {{ $glyphs := .Site.Data.unicode.textual.glyphs }}
+        {{ $unicodeData := .Site.Data.unicode }}
 
         <section id="textual">
           <h1>Textual</h1>
 
-          <dl>
-            <dt>Latin-1 Supplement</dt>
-            {{ range where $glyphs "unicode.blk" "Latin_1_Sup" }}
-            <dd class="{{ .unicode.blk | lower }}" title="{{ .code }} {{ .char }} {{ .unicode.na }}">{{ .char }}</dd>
+          <ul>
+            {{- range (index $unicodeData).textual.glyphs }}
+            <li title="{{ .code }} {{ .char }} {{ .unicode.na }}" data-blk="{{ .unicode.blk }}" data-gc="{{ .unicode.gc }}">{{ .char }}</li>
             {{- end }}
-
-            <dt>General Punctuation</dt>
-            {{ range where $glyphs "unicode.blk" "Punctuation" }}
-            <dd title="{{ .code }} {{ .char }} {{ .unicode.na }}">{{ .char }}</dd>
-            {{- end }}
-
-            <dt>Mathematical Operators</dt>
-            {{ range where $glyphs "unicode.blk" "Math_Operators" }}
-            <dd title="{{ .code }} {{ .char }} {{ .unicode.na }}">{{ .char }}</dd>
-            {{- end }}
-          </dl>
+          </ul>
         </section>
 
         <section id="emoji">
@@ -142,7 +142,7 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.12/clipboard.min.js"></script>
   <script>
-  var elems = document.querySelectorAll('#unicode dd');
+  var elems = document.querySelectorAll('#unicode li');
   new Clipboard(elems, {
     text: function(trigger) {
       var imgElems = trigger.getElementsByTagName('img');
