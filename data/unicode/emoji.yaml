@@ -1,0 +1,570 @@
+glyphs:
+
+# SMILEYS & PEOPLE
+
+# face-positive
+
+- char: 😀
+  code: U+1F600
+  img: https://upload.wikimedia.org/wikipedia/commons/3/31/Emoji_u1f600.svg
+  unicode:
+    age: 6.1
+    na: grinning face
+    blk: Emoticons
+    gc: So
+
+- char: 😁
+  code: U+1F601
+  img: https://upload.wikimedia.org/wikipedia/commons/c/cb/Emoji_u1f601.svg
+  unicode:
+    age: 6.0
+    na: grinning face with smiling eyes
+    blk: Emoticons
+    gc: So
+
+- char: 😂
+  code: U+1F602
+  img: https://upload.wikimedia.org/wikipedia/commons/1/1b/Emoji_u1f602.svg
+  unicode:
+    age: 6.0
+    na: face with tears of joy
+    blk: Emoticons
+    gc: So
+
+- char: 🤣
+  code: U+1F923
+  img:
+  unicode:
+    age: 9.0
+    na: rolling on the floor laughing
+    blk: Sup_Symbols_And_Pictographs
+    gc: So
+
+- char: 😃
+  code: U+1F603
+  img: https://upload.wikimedia.org/wikipedia/commons/f/f9/Emoji_u1f603.svg
+  unicode:
+    age: 6.0
+    na: smiling face with open mouth
+    blk: Emoticons
+    gc: So
+
+- char: 😄
+  code: U+1F604
+  img: https://upload.wikimedia.org/wikipedia/commons/9/9d/Emoji_u1f604.svg
+  unicode:
+    age: 6.0
+    na: smiling face with open mouth & smiling eyes
+    blk: Emoticons
+    gc: So
+
+- char: 😅
+  code: U+1F605
+  img: https://upload.wikimedia.org/wikipedia/commons/5/53/Emoji_u1f605.svg
+  unicode:
+    age: 6.0
+    na: smiling face with open mouth & cold sweat
+    blk: Emoticons
+    gc: So
+
+- char: 😆
+  code: U+1F606
+  img: https://upload.wikimedia.org/wikipedia/commons/2/24/Emoji_u1f606.svg
+  unicode:
+    age: 6.0
+    na: smiling face with open mouth & closed eyes
+    blk: Emoticons
+    gc: So
+
+- char: 😉
+  code: U+1F609
+  img: https://upload.wikimedia.org/wikipedia/commons/3/36/Emoji_u1f609.svg
+  unicode:
+    age: 6.0
+    na: winking face
+    blk: Emoticons
+    gc: So
+
+# face-neutral
+
+- char: 🤔
+  code: U+1F914
+  img:
+  unicode:
+    age: 8.0
+    na: thinking face
+    blk: Sup_Symbols_And_Pictographs
+    gc: So
+
+- char: 😐
+  code: U+1F610
+  img: https://upload.wikimedia.org/wikipedia/commons/f/fb/Emoji_u1f610.svg
+  unicode:
+    age: 6.0
+    na: neutral face
+    blk: Emoticons
+    gc: So
+
+- char: 😑
+  code: U+1F611
+  img: https://upload.wikimedia.org/wikipedia/commons/5/5d/Emoji_u1f611.svg
+  unicode:
+    age: 6.1
+    na: expressionless face
+    blk: Emoticons
+    gc: So
+
+- char: 😶
+  code: U+1F636
+  img: https://upload.wikimedia.org/wikipedia/commons/1/14/Emoji_u1f636.svg
+  unicode:
+    age: 6.0
+    na: face without mouth
+    blk: Emoticons
+    gc: So
+
+- char: 🙄
+  code: U+1F644
+  img:
+  unicode:
+    age: 8.0
+    na: face with rolling eyes
+    blk: Emoticons
+    gc: So
+
+- char: 😏
+  code: U+1F60F
+  img: https://upload.wikimedia.org/wikipedia/commons/4/4e/Emoji_u1f60f.svg
+  unicode:
+    age: 6.0
+    na: smirking face
+    blk: Emoticons
+    gc: So
+
+- char: 😣
+  code: U+1F623
+  img: https://upload.wikimedia.org/wikipedia/commons/a/a7/Emoji_u1f623.svg
+  unicode:
+    age: 6.0
+    na: persevering face
+    blk: Emoticons
+    gc: So
+
+- char: 😥
+  code: U+1F625
+  img: https://upload.wikimedia.org/wikipedia/commons/8/88/Emoji_u1f625.svg
+  unicode:
+    age: 6.0
+    na: disappointed but relieved face
+    blk: Emoticons
+    gc: So
+
+- char: 😮
+  code: U+1F62E
+  img: https://upload.wikimedia.org/wikipedia/commons/e/e2/Emoji_u1f62e.svg
+  unicode:
+    age: 6.1
+    na: face with open mouth
+    blk: Emoticons
+    gc: So
+
+- char: 🤐
+  code: U+1F910
+  img:
+  unicode:
+    age: 8.0
+    na: zipper-mouth face
+    blk: Sup_Symbols_And_Pictographs
+    gc: So
+
+- char: 😪
+  code: U+1F62A
+  img: https://upload.wikimedia.org/wikipedia/commons/f/f8/Emoji_u1f62a.svg
+  unicode:
+    age: 6.0
+    na: sleepy face
+    blk: Emoticons
+    gc: So
+
+- char: 😫
+  code: U+1F62B
+  img: https://upload.wikimedia.org/wikipedia/commons/f/fe/Emoji_u1f62b.svg
+  unicode:
+    age: 6.0
+    na: tired face
+    blk: Emoticons
+    gc: So
+
+- char: 😴
+  code: U+1F634
+  img: https://upload.wikimedia.org/wikipedia/commons/b/b1/Emoji_u1f634.svg
+  unicode:
+    age: 6.1
+    na: sleeping face
+    blk: Emoticons
+    gc: So
+
+- char: 😌
+  code: U+1F60C
+  img: https://upload.wikimedia.org/wikipedia/commons/4/43/Emoji_u1f60c.svg
+  unicode:
+    age: 6.0
+    na: relieved face
+    blk: Emoticons
+    gc: So
+
+- char: 🤓
+  code: U+1F913
+  img:
+  unicode:
+    age: 8.0
+    na: nerd face
+    blk: Sup_Symbols_And_Pictographs
+    gc: So
+
+- char: 😛
+  code: U+1F61B
+  img: https://upload.wikimedia.org/wikipedia/commons/d/d1/Emoji_u1f61b.svg
+  unicode:
+    age: 6.1
+    na: face with stuck-out tongue
+    blk: Emoticons
+    gc: So
+
+- char: 😜
+  code: U+1F61C
+  img: https://upload.wikimedia.org/wikipedia/commons/d/d4/Emoji_u1f61c.svg
+  unicode:
+    age: 6.0
+    na: face with stuck-out tongue & winking eye
+    blk: Emoticons
+    gc: So
+
+- char: 😝
+  code: U+1F61D
+  img: https://upload.wikimedia.org/wikipedia/commons/5/57/Emoji_u1f61d.svg
+  unicode:
+    age: 6.0
+    na: face with stuck-out tongue & closed eyes
+    blk: Emoticons
+    gc: So
+
+- char: 🤤
+  code: U+1F924
+  img:
+  unicode:
+    age: 9.0
+    na: drooling face
+    blk: Sup_Symbols_And_Pictographs
+    gc: So
+
+- char: 😒
+  code: U+1F612
+  img: https://upload.wikimedia.org/wikipedia/commons/9/9d/Emoji_u1f612.svg
+  unicode:
+    age: 6.0
+    na: unamused face
+    blk: Emoticons
+    gc: So
+
+- char: 😓
+  code: U+1F613
+  img: https://upload.wikimedia.org/wikipedia/commons/0/0f/Emoji_u1f613.svg
+  unicode:
+    age: 6.0
+    na: face with cold sweat
+    blk: Emoticons
+    gc: So
+
+- char: 😔
+  code: U+1F614
+  img: https://upload.wikimedia.org/wikipedia/commons/a/a2/Emoji_u1f614.svg
+  unicode:
+    age: 6.0
+    na: pensive face
+    blk: Emoticons
+    gc: So
+
+- char: 😕
+  code: U+1F615
+  img: https://upload.wikimedia.org/wikipedia/commons/4/49/Emoji_u1f615.svg
+  unicode:
+    age: 6.1
+    na: confused face
+    blk: Emoticons
+    gc: So
+
+- char: 🙃
+  code: U+1F643
+  img:
+  unicode:
+    age: 8.0
+    na: upside-down face
+    blk: Sup_Symbols_And_Pictographs
+    gc: So
+
+- char: 🤑
+  code: U+1F911
+  img:
+  unicode:
+    age: 8.0
+    na: money-mouth face
+    blk: Sup_Symbols_And_Pictographs
+    gc: So
+
+- char: 😲
+  code: U+1F632
+  img: https://upload.wikimedia.org/wikipedia/commons/b/b5/Emoji_u1f632.svg
+  unicode:
+    age: 6.0
+    na: astonished face
+    blk: Emoticons
+    gc: So
+
+# face-negative
+
+- char: ☹
+  code: U+2639
+  img:
+  unicode:
+    age: 1.1
+    na: frowning face
+    blk: Misc_Symbols
+    gc: So
+
+- char: 🙁
+  code: U+1F641
+  img:
+  unicode:
+    age: 7.0
+    na: slightly frowning face
+    blk: Emoticons
+    gc: So
+
+- char: 😖
+  code: U+1F616
+  img: https://upload.wikimedia.org/wikipedia/commons/7/7e/Emoji_u1f616.svg
+  unicode:
+    age: 6.0
+    na: confounded face
+    blk: Emoticons
+    gc: So
+
+- char: 😞
+  code: U+1F61E
+  img: https://upload.wikimedia.org/wikipedia/commons/d/d2/Emoji_u1f61e.svg
+  unicode:
+    age: 6.0
+    na: disappointed face
+    blk: Emoticons
+    gc: So
+
+- char: 😟
+  code: U+1F61F
+  img: https://upload.wikimedia.org/wikipedia/commons/a/a6/Emoji_u1f61f.svg
+  unicode:
+    age: 6.1
+    na: worried face
+    blk: Emoticons
+    gc: So
+
+- char: 😤
+  code: U+1F624
+  img: https://upload.wikimedia.org/wikipedia/commons/d/d5/Emoji_u1f624.svg
+  unicode:
+    age: 6.0
+    na: face with steam from nose
+    blk: Emoticons
+    gc: So
+
+- char: 😢
+  code: U+1F622
+  img: https://upload.wikimedia.org/wikipedia/commons/d/db/Emoji_u1f622.svg
+  unicode:
+    age: 6.0
+    na: crying face
+    blk: Emoticons
+    gc: So
+
+- char: 😭
+  code: U+1F62D
+  img: https://upload.wikimedia.org/wikipedia/commons/d/d1/Emoji_u1f62d.svg
+  unicode:
+    age: 6.0
+    na: loudly crying face
+    blk: Emoticons
+    gc: So
+
+- char: 😦
+  code: U+1F626
+  img: https://upload.wikimedia.org/wikipedia/commons/2/23/Emoji_u1f626.svg
+  unicode:
+    age: 6.1
+    na: frowning face with open mouth
+    blk: Emoticons
+    gc: So
+
+- char: 😧
+  code: U+1F627
+  img: https://upload.wikimedia.org/wikipedia/commons/d/dd/Emoji_u1f627.svg
+  unicode:
+    age: 6.1
+    na: anguished face
+    blk: Emoticons
+    gc: So
+
+- char: 😨
+  code: U+1F628
+  img: https://upload.wikimedia.org/wikipedia/commons/5/50/Emoji_u1f628.svg
+  unicode:
+    age: 6.0
+    na: fearful face
+    blk: Emoticons
+    gc: So
+
+- char: 😩
+  code: U+1F629
+  img: https://upload.wikimedia.org/wikipedia/commons/6/6b/Emoji_u1f629.svg
+  unicode:
+    age: 6.0
+    na: weary face
+    blk: Emoticons
+    gc: So
+
+- char: 😬
+  code: U+1F62C
+  img: https://upload.wikimedia.org/wikipedia/commons/2/2e/Emoji_u1f62c.svg
+  unicode:
+    age: 6.1
+    na: grimacing face
+    blk: Emoticons
+    gc: So
+
+- char: 😰
+  code: U+1F630
+  img: https://upload.wikimedia.org/wikipedia/commons/4/49/Emoji_u1f630.svg
+  unicode:
+    age: 6.0
+    na: face with open mouth & cold sweat
+    blk: Emoticons
+    gc: So
+
+- char: 😱
+  code: U+1F631
+  img: https://upload.wikimedia.org/wikipedia/commons/7/7e/Emoji_u1f631.svg
+  unicode:
+    age: 6.0
+    na: face screaming in fear
+    blk: Emoticons
+    gc: So
+
+- char: 😳
+  code: U+1F633
+  img: https://upload.wikimedia.org/wikipedia/commons/2/28/Emoji_u1f633.svg
+  unicode:
+    age: 6.0
+    na: flushed face
+    blk: Emoticons
+    gc: So
+
+- char: 😵
+  code: 1F635
+  img: https://upload.wikimedia.org/wikipedia/commons/5/5e/Emoji_u1f635.svg
+  unicode:
+    age: 6.0
+    na: dizzy face
+    blk: Emoticons
+    gc: So
+
+- char: 😡
+  code: U+1F621
+  img: https://upload.wikimedia.org/wikipedia/commons/7/7f/Emoji_u1f621.svg
+  unicode:
+    age: 6.0
+    na: pouting face
+    blk: Emoticons
+    gc: So
+
+- char: 😠
+  code: U+1F620
+  img: https://upload.wikimedia.org/wikipedia/commons/8/8a/Emoji_u1f620.svg
+  unicode:
+    age: 6.0
+    na: angry face
+    blk: Emoticons
+    gc: So
+
+# face-role
+
+- char: 😇
+  code: U+1F607
+  img: https://upload.wikimedia.org/wikipedia/commons/c/ca/Emoji_u1f607.svg
+  unicode:
+    age: 6.0
+    na: smiling face with halo
+    blk: Emoticons
+    gc: So
+
+- char: 🤥
+  code: U+1F925
+  img:
+  unicode:
+    age: 9.0
+    na: lying face
+    blk: Sup_Symbols_And_Pictographs
+    gc: So
+
+# ANIMALS & NATURE
+
+# animal-mammal
+
+- char: 🦇
+  code: U+1F987
+  img:
+  unicode:
+    age: 9.0
+    na: bat
+    blk: Sup_Symbols_And_Pictographs
+    gc: So
+
+# animal-bird
+
+- char: 🐧
+  code: U+1F427
+  img: https://upload.wikimedia.org/wikipedia/commons/3/39/Emoji_u1f427.svg
+  unicode:
+    age: 6.0
+    na: penguin
+    blk: Misc_Pictographs
+    gc: So
+
+- char: 🦉
+  code: U+1F989
+  img:
+  unicode:
+    age: 9.0
+    na: owl
+    blk: Sup_Symbols_And_Pictographs
+    gc: So
+
+# TRAVEL & PLACES
+
+# transport-ground
+
+- char: 🛴
+  code: U+1F6F4
+  img:
+  unicode:
+    age: 9.0
+    na: scooter
+    blk: Transport_And_Map
+    gc: So
+
+- char: 🛑
+  code: U+1F6D1
+  img:
+  unicode:
+    age: 9.0
+    na: octagonal sign
+    blk: Transport_And_Map
+    gc: So
