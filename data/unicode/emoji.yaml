@@ -468,7 +468,7 @@ glyphs:
     gc: So
 
 - char: 😵
-  code: 1F635
+  code: U+1F635
   img: https://upload.wikimedia.org/wikipedia/commons/5/5e/Emoji_u1f635.svg
   unicode:
     age: 6.0
