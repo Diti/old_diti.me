@@ -1,0 +1,33 @@
+ {{ partial "head.html" . }}
+
+<body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
+  {{ partial "sidebar.html" . }}
+
+  <div class="content container">
+    <div class="post">
+      <h1>{{ .Title }}</h1>
+      {{ $myPokedex := (index .Site.Data.pokemon.pokedex_sm) }} {{ .Content }}
+
+      <table>
+        <thead>
+          <tr>
+            <th>№</th>
+            <th>Name</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{- range $myPokedex.pokemons }} {{ if not .owned }}
+          <tr>
+            <td>{{ printf "%03d" .number }}</td>
+            <td>{{ .name }}</td>
+          </tr>
+          {{- end -}} {{ end }}
+        </tbody>
+      </table>
+
+    </div>
+  </div>
+
+</body>
+
+</html>

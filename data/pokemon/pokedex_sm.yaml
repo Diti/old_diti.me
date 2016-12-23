@@ -1,0 +1,1206 @@
+pokemons:
+
+- name: Rowlett
+  number: 1
+  owned: yes
+
+- name: Dartrix
+  number: 2
+  owned: yes
+
+- name: Decidueye
+  number: 3
+  owned: yes
+
+- name: Litten
+  number: 4
+  owned: yes
+
+- name: Torracat
+  number: 5
+  owned: no
+
+- name: Incineroar
+  number: 6
+  owned: no
+
+- name: Popplio
+  number: 7
+  owned: no
+
+- name: Brionne
+  number: 8
+  owned: no
+
+- name: Primarina
+  number: 9
+  owned: no
+
+- name: Pikipek
+  number: 10
+  owned: yes
+
+- name: Trumbeak
+  number: 11
+  owned: no
+
+- name: Toucannon
+  number: 12
+  owned: no
+
+- name: Yungoos
+  number: 13
+  owned: yes
+
+- name: Gumshoos
+  number: 14
+  owned: no
+
+- name: Rattata
+  number: 15
+  owned: yes
+
+- name: Raticate
+  number: 16
+  owned: no
+
+- name: Caterpie
+  number: 17
+  owned: yes
+
+- name: Metapod
+  number: 18
+  owned: yes
+
+- name: Butterfree
+  number: 19
+  owned: no
+
+- name: Ledyba
+  number: 20
+  owned: yes
+
+- name: Ledian
+  number: 21
+  owned: no
+
+- name: Spinarak
+  number: 22
+  owned: no
+
+- name: Ariados
+  number: 23
+  owned: no
+
+- name: Pichu
+  number: 24
+  owned: yes
+
+- name: Pikachu
+  number: 25
+  owned: no
+
+- name: Raichu
+  number: 26
+  owned: no
+
+- name: Grubbin
+  number: 27
+  owned: yes
+
+- name: Charjabug
+  number: 28
+  owned: no
+
+- name: Vikavolt
+  number: 29
+  owned: no
+
+- name: Bonsly
+  number: 30
+  owned: yes
+
+- name: Sudowoodo
+  number: 31
+  owned: no
+
+- name: Happiny
+  number: 32
+  owned: yes
+
+- name: Chansey
+  number: 33
+  owned: no
+
+- name: Blissey
+  number: 34
+  owned: no
+
+- name: Munchlax
+  number: 35
+  owned: yes
+
+- name: Snorlax
+  number: 36
+  owned: no
+
+- name: Slowpoke
+  number: 37
+  owned: yes
+
+- name: Slowbro
+  number: 38
+  owned: no
+
+- name: Slowking
+  number: 39
+  owned: no
+
+- name: Wingull
+  number: 40
+  owned: yes
+
+- name: Pelipper
+  number: 41
+  owned: no
+
+- name: Abra
+  number: 42
+  owned: yes
+
+- name: Kadabra
+  number: 43
+  owned: yes
+
+- name: Alakazam
+  number: 44
+  owned: yes
+
+- name: Meowth
+  number: 45
+  owned: yes
+
+- name: Persian
+  number: 46
+  owned: no
+
+- name: Magnemite
+  number: 47
+  owned: yes
+
+- name: Magneton
+  number: 48
+  owned: no
+
+- name: Magnezone
+  number: 49
+  owned: no
+
+- name: Grimer
+  number: 50
+  owned: yes
+
+- name: Muk
+  number: 51
+  owned: no
+
+- name: Growlithe
+  number: 52
+  owned: yes
+
+- name: Arcanine
+  number: 53
+  owned: yes
+
+- name: Drowzee
+  number: 54
+  owned: yes
+
+- name: Hypno
+  number: 55
+  owned: no
+
+- name: Makuhita
+  number: 56
+  owned: yes
+
+- name: Hariyama
+  number: 57
+  owned: no
+
+- name: Smeargle
+  number: 58
+  owned: yes
+
+- name: Crabrawler
+  number: 59
+  owned: yes
+
+- name: Crabominable
+  number: 60
+  owned: no
+
+- name: Gastly
+  number: 61
+  owned: no
+
+- name: Haunter
+  number: 62
+  owned: no
+
+- name: Gengar
+  number: 63
+  owned: no
+
+- name: Drifloon
+  number: 64
+  owned: no
+
+- name: Drifblim
+  number: 65
+  owned: no
+
+- name: Misdreavus
+  number: 66
+  owned: no
+
+- name: Mismagius
+  number: 67
+  owned: no
+
+- name: Zubat
+  number: 68
+  owned: yes
+
+- name: Golbat
+  number: 69
+  owned: no
+
+- name: Crobat
+  number: 70
+  owned: no
+
+- name: Diglett
+  number: 71
+  owned: yes
+
+- name: Dugtrio
+  number: 72
+  owned: no
+
+- name: Spearow
+  number: 73
+  owned: yes
+
+- name: Fearow
+  number: 74
+  owned: yes
+
+- name: Rufflet
+  number: 75
+  owned: no
+
+- name: Braviary
+  number: 76
+  owned: no
+
+- name: Vullaby
+  number: 77
+  owned: yes
+
+- name: Mandibuzz
+  number: 78
+  owned: no
+
+- name: Mankey
+  number: 79
+  owned: yes
+
+- name: Primeape
+  number: 80
+  owned: no
+
+- name: Delibird
+  number: 81
+  owned: yes
+
+- name: Oricorio
+  number: 82
+  owned: yes
+
+- name: Cutiefly
+  number: 83
+  owned: yes
+
+- name: Ribombee
+  number: 84
+  owned: no
+
+- name: Petilil
+  number: 85
+  owned: yes
+
+- name: Lilligant
+  number: 86
+  owned: no
+
+- name: Cottonee
+  number: 87
+  owned: no
+
+- name: Whimsicott
+  number: 88
+  owned: no
+
+- name: Psyduck
+  number: 89
+  owned: yes
+
+- name: Golduck
+  number: 90
+  owned: no
+
+- name: Magikarp
+  number: 91
+  owned: yes
+
+- name: Gyarados
+  number: 92
+  owned: no
+
+- name: Barboach
+  number: 93
+  owned: no
+
+- name: Whiscash
+  number: 94
+  owned: no
+
+- name: Machop
+  number: 95
+  owned: yes
+
+- name: Machoke
+  number: 96
+  owned: no
+
+- name: Machamp
+  number: 97
+  owned: no
+
+- name: Roggenrola
+  number: 98
+  owned: yes
+
+- name: Boldore
+  number: 99
+  owned: yes
+
+- name: Gigalith
+  number: 100
+  owned: yes
+
+- name: Carbink
+  number: 101
+  owned: yes
+
+- name: Sableye
+  number: 102
+  owned: yes
+
+- name: Rockruff
+  number: 103
+  owned: yes
+
+- name: Lycanroc
+  number: 104
+  owned: no
+
+- name: Spinda
+  number: 105
+  owned: yes
+
+- name: Tentacool
+  number: 106
+  owned: yes
+
+- name: Tentacruel
+  number: 107
+  owned: no
+
+- name: Finneon
+  number: 108
+  owned: yes
+
+- name: Lumineon
+  number: 109
+  owned: no
+
+- name: Wishiwashi
+  number: 110
+  owned: yes
+
+- name: Luvdisc
+  number: 111
+  owned: yes
+
+- name: Corsola
+  number: 112
+  owned: yes
+
+- name: Mareanie
+  number: 113
+  owned: yes
+
+- name: Toxapex
+  number: 114
+  owned: no
+
+- name: Shellder
+  number: 115
+  owned: yes
+
+- name: Cloyster
+  number: 116
+  owned: no
+
+- name: Bagon
+  number: 117
+  owned: yes
+
+- name: Shelgon
+  number: 118
+  owned: yes
+
+- name: Salamence
+  number: 119
+  owned: no
+
+- name: Lillipup
+  number: 120
+  owned: yes
+
+- name: Herdier
+  number: 121
+  owned: no
+
+- name: Stoutland
+  number: 122
+  owned: no
+
+- name: Eevee
+  number: 123
+  owned: yes
+
+- name: Vaporeon
+  number: 124
+  owned: yes
+
+- name: Jolteon
+  number: 125
+  owned: yes
+
+- name: Flareon
+  number: 126
+  owned: yes
+
+- name: Espeon
+  number: 127
+  owned: no
+
+- name: Umbreon
+  number: 128
+  owned: yes
+
+- name: Leafeon
+  number: 129
+  owned: no
+
+- name: Glaceon
+  number: 130
+  owned: no
+
+- name: Sylveon
+  number: 131
+  owned: yes
+
+- name: Mudbray
+  number: 132
+  owned: yes
+
+- name: Mudsdale
+  number: 133
+  owned: no
+
+- name: Igglybuff
+  number: 134
+  owned: yes
+
+- name: Jigglypuff
+  number: 135
+  owned: no
+
+- name: Wigglytuff
+  number: 136
+  owned: no
+
+- name: Tauros
+  number: 137
+  owned: no
+
+- name: Miltank
+  number: 138
+  owned: no
+
+- name: Surskit
+  number: 139
+  owned: no
+
+- name: Masquerain
+  number: 140
+  owned: no
+
+- name: Dewpider
+  number: 141
+  owned: yes
+
+- name: Araquanid
+  number: 142
+  owned: yes
+
+- name: Fomantis
+  number: 143
+  owned: no
+
+- name: Lurantis
+  number: 144
+  owned: no
+
+- name: Morelull
+  number: 145
+  owned: yes
+
+- name: Shiinotic
+  number: 146
+  owned: no
+
+- name: Paras
+  number: 147
+  owned: yes
+
+- name: Parasect
+  number: 148
+  owned: yes
+
+- name: Poliwag
+  number: 149
+  owned: no
+
+- name: Poliwhirl
+  number: 150
+  owned: no
+
+- name: Poliwrath
+  number: 151
+  owned: no
+
+- name: Politoed
+  number: 152
+  owned: no
+
+- name: Goldeen
+  number: 153
+  owned: yes
+
+- name: Seaking
+  number: 154
+  owned: no
+
+- name: Feebas
+  number: 155
+  owned: yes
+
+- name: Milotic
+  number: 156
+  owned: yes
+
+- name: Alomomola
+  number: 157
+  owned: no
+
+- name: Fletchling
+  number: 158
+  owned: yes
+
+- name: Fletchinder
+  number: 159
+  owned: no
+
+- name: Talonflame
+  number: 160
+  owned: no
+
+- name: Salandit
+  number: 161
+  owned: yes
+
+- name: Salazzle
+  number: 162
+  owned: yes
+
+- name: Cubone
+  number: 163
+  owned: yes
+
+- name: Marowak
+  number: 164
+  owned: no
+
+- name: Kangaskhan
+  number: 165
+  owned: yes
+
+- name: Magby
+  number: 166
+  owned: yes
+
+- name: Magmar
+  number: 167
+  owned: yes
+
+- name: Magmortar
+  number: 168
+  owned: no
+
+- name: Stufful
+  number: 169
+  owned: no
+
+- name: Bewear
+  number: 170
+  owned: no
+
+- name: Bounsweet
+  number: 171
+  owned: no
+
+- name: Steenee
+  number: 172
+  owned: no
+
+- name: Tsareena
+  number: 173
+  owned: no
+
+- name: Comfey
+  number: 174
+  owned: no
+
+- name: Pinsir
+  number: 175
+  owned: no
+
+- name: Oranguru
+  number: 176
+  owned: no
+
+- name: Passimian
+  number: 177
+  owned: no
+
+- name: Goomy
+  number: 178
+  owned: no
+
+- name: Sliggoo
+  number: 179
+  owned: no
+
+- name: Goodra
+  number: 180
+  owned: no
+
+- name: Castform
+  number: 181
+  owned: no
+
+- name: Wimpod
+  number: 182
+  owned: no
+
+- name: Golisopod
+  number: 183
+  owned: no
+
+- name: Staryu
+  number: 184
+  owned: yes
+
+- name: Starmie
+  number: 185
+  owned: no
+
+- name: Sandygast
+  number: 186
+  owned: no
+
+- name: Palossand
+  number: 187
+  owned: no
+
+- name: Cranidos
+  number: 188
+  owned: no
+
+- name: Rampardos
+  number: 189
+  owned: no
+
+- name: Shieldon
+  number: 190
+  owned: no
+
+- name: Bastiodon
+  number: 191
+  owned: no
+
+- name: Archen
+  number: 192
+  owned: no
+
+- name: Archeops
+  number: 193
+  owned: no
+
+- name: Tirtouga
+  number: 194
+  owned: no
+
+- name: Carracosta
+  number: 195
+  owned: no
+
+- name: Phantump
+  number: 196
+  owned: no
+
+- name: Trevenant
+  number: 197
+  owned: no
+
+- name: Nosepass
+  number: 198
+  owned: no
+
+- name: Probopass
+  number: 199
+  owned: no
+
+- name: Pyukumuku
+  number: 200
+  owned: no
+
+- name: Chinchou
+  number: 201
+  owned: no
+
+- name: Lanturn
+  number: 202
+  owned: no
+
+- name: "Type: Null"
+  number: 203
+  owned: no
+
+- name: Silvally
+  number: 204
+  owned: no
+
+- name: Zygarde
+  number: 205
+  owned: yes
+
+- name: Trubbish
+  number: 206
+  owned: yes
+
+- name: Garbodor
+  number: 207
+  owned: no
+
+- name: Skarmory
+  number: 208
+  owned: no
+
+- name: Ditto
+  number: 209
+  owned: yes
+
+- name: Cleffa
+  number: 210
+  owned: no
+
+- name: Clefairy
+  number: 211
+  owned: no
+
+- name: Clefable
+  number: 212
+  owned: no
+
+- name: Minior
+  number: 213
+  owned: no
+
+- name: Beldum
+  number: 214
+  owned: no
+
+- name: Metang
+  number: 215
+  owned: no
+
+- name: Metagross
+  number: 216
+  owned: no
+
+- name: Porygon
+  number: 217
+  owned: no
+
+- name: Porygon2
+  number: 218
+  owned: no
+
+- name: Porygon-Z
+  number: 219
+  owned: no
+
+- name: Pancham
+  number: 220
+  owned: no
+
+- name: Pangoro
+  number: 221
+  owned: no
+
+- name: Komala
+  number: 222
+  owned: yes
+
+- name: Torkoal
+  number: 223
+  owned: no
+
+- name: Turtonator
+  number: 224
+  owned: yes
+
+- name: Togedemaru
+  number: 225
+  owned: no
+
+- name: Elekid
+  number: 226
+  owned: no
+
+- name: Electabuzz
+  number: 227
+  owned: no
+
+- name: Electivire
+  number: 228
+  owned: no
+
+- name: Geodude
+  number: 229
+  owned: yes
+
+- name: Graveler
+  number: 230
+  owned: yes
+
+- name: Golem
+  number: 231
+  owned: no
+
+- name: Sandile
+  number: 232
+  owned: no
+
+- name: Krokorok
+  number: 233
+  owned: no
+
+- name: Krookodile
+  number: 234
+  owned: no
+
+- name: Trapinch
+  number: 235
+  owned: no
+
+- name: Vibrava
+  number: 236
+  owned: no
+
+- name: Flygon
+  number: 237
+  owned: no
+
+- name: Gible
+  number: 238
+  owned: no
+
+- name: Gabite
+  number: 239
+  owned: no
+
+- name: Garchomp
+  number: 240
+  owned: no
+
+- name: Klefki
+  number: 241
+  owned: yes
+
+- name: Mimikyu
+  number: 242
+  owned: no
+
+- name: Bruxish
+  number: 243
+  owned: no
+
+- name: Drampa
+  number: 244
+  owned: no
+
+- name: Absol
+  number: 245
+  owned: yes
+
+- name: Snorunt
+  number: 246
+  owned: yes
+
+- name: Glalie
+  number: 247
+  owned: no
+
+- name: Froslass
+  number: 248
+  owned: no
+
+- name: Sneasel
+  number: 249
+  owned: no
+
+- name: Weavile
+  number: 250
+  owned: no
+
+- name: Sandshrew
+  number: 251
+  owned: yes
+
+- name: Sandslash
+  number: 252
+  owned: yes
+
+- name: Vulpix
+  number: 253
+  owned: no
+
+- name: Ninetales
+  number: 254
+  owned: no
+
+- name: Vanillite
+  number: 255
+  owned: no
+
+- name: Vanillish
+  number: 256
+  owned: no
+
+- name: Vanilluxe
+  number: 257
+  owned: no
+
+- name: Snubbull
+  number: 258
+  owned: no
+
+- name: Granbull
+  number: 259
+  owned: no
+
+- name: Shellos
+  number: 260
+  owned: no
+
+- name: Gastrodon
+  number: 261
+  owned: yes
+
+- name: Relicanth
+  number: 262
+  owned: no
+
+- name: Dhelmise
+  number: 263
+  owned: no
+
+- name: Carvanha
+  number: 264
+  owned: no
+
+- name: Sharpedo
+  number: 265
+  owned: no
+
+- name: Wailmer
+  number: 266
+  owned: no
+
+- name: Wailord
+  number: 267
+  owned: no
+
+- name: Lapras
+  number: 268
+  owned: no
+
+- name: Exeggcute
+  number: 269
+  owned: yes
+
+- name: Exeggutor
+  number: 270
+  owned: yes
+
+- name: Jangmo-o
+  number: 271
+  owned: no
+
+- name: Hakamo-o
+  number: 272
+  owned: no
+
+- name: Kommo-o
+  number: 273
+  owned: no
+
+- name: Emolga
+  number: 274
+  owned: no
+
+- name: Scyther
+  number: 275
+  owned: yes
+
+- name: Scizor
+  number: 276
+  owned: no
+
+- name: Murkrow
+  number: 277
+  owned: no
+
+- name: Honchkrow
+  number: 278
+  owned: no
+
+- name: Riolu
+  number: 279
+  owned: no
+
+- name: Lucario
+  number: 280
+  owned: no
+
+- name: Dratini
+  number: 281
+  owned: no
+
+- name: Dragonair
+  number: 282
+  owned: no
+
+- name: Dragonite
+  number: 283
+  owned: no
+
+- name: Aerodactyl
+  number: 284
+  owned: yes
+
+- name: Tapu Koko
+  number: 285
+  owned: no
+
+- name: Tapu Lele
+  number: 286
+  owned: no
+
+- name: Tapu Bulu
+  number: 287
+  owned: no
+
+- name: Tapu Fini
+  number: 288
+  owned: no
+
+- name: Cosmog
+  number: 289
+  owned: no
+
+- name: Cosmoem
+  number: 290
+  owned: no
+
+- name: Solgaleo
+  number: 291
+  owned: yes
+
+- name: Lunala
+  number: 292
+  owned: yes
+
+- name: Nihilego
+  number: 293
+  owned: yes
+
+- name: Buzzwole
+  number: 294
+  owned: no
+
+- name: Pheromosa
+  number: 295
+  owned: no
+
+- name: Xurkitree
+  number: 296
+  owned: no
+
+- name: Celesteela
+  number: 297
+  owned: no
+
+- name: Kartana
+  number: 298
+  owned: yes
+
+- name: Guzzlord
+  number: 299
+  owned: no
+
+- name: Necrozma
+  number: 300
+  owned: no
+
+- name: Magearna
+  number: 301
+  owned: yes
+
