@@ -1,1206 +1,1813 @@
 pokemons:
 
 - name: Rowlett
-  number: 1
+  number:
+    national: 722
+    regional: 1
   owned: yes
 
 - name: Dartrix
-  number: 2
+  number:
+    national: 723
+    regional: 2
   owned: yes
 
 - name: Decidueye
-  number: 3
+  number:
+    national: 724
+    regional: 3
   owned: yes
 
 - name: Litten
-  number: 4
+  number:
+    national: 725
+    regional: 4
   owned: yes
 
 - name: Torracat
-  number: 5
+  number:
+    national: 726
+    regional: 5
   owned: no
 
 - name: Incineroar
-  number: 6
+  number:
+    national: 727
+    regional: 6
   owned: no
 
 - name: Popplio
-  number: 7
+  number:
+    national: 728
+    regional: 7
   owned: no
 
 - name: Brionne
-  number: 8
+  number:
+    national: 729
+    regional: 8
   owned: no
 
 - name: Primarina
-  number: 9
+  number:
+    national: 730
+    regional: 9
   owned: no
 
 - name: Pikipek
-  number: 10
+  number:
+    national: 731
+    regional: 10
   owned: yes
 
 - name: Trumbeak
-  number: 11
+  number:
+    national: 732
+    regional: 11
   owned: no
 
 - name: Toucannon
-  number: 12
+  number:
+    national: 733
+    regional: 12
   owned: no
 
 - name: Yungoos
-  number: 13
+  number:
+    national: 734
+    regional: 13
   owned: yes
 
 - name: Gumshoos
-  number: 14
+  number:
+    national: 735
+    regional: 14
   owned: no
 
 - name: Rattata
-  number: 15
+  number:
+    national: 19
+    regional: 15
   owned: yes
 
 - name: Raticate
-  number: 16
+  number:
+    national: 20
+    regional: 16
   owned: no
 
 - name: Caterpie
-  number: 17
+  number:
+    national: 10
+    regional: 17
   owned: yes
 
 - name: Metapod
-  number: 18
+  number:
+    national: 11
+    regional: 18
   owned: yes
 
 - name: Butterfree
-  number: 19
+  number:
+    national: 12
+    regional: 19
   owned: no
 
 - name: Ledyba
-  number: 20
+  number:
+    national: 165
+    regional: 20
   owned: yes
 
 - name: Ledian
-  number: 21
+  number:
+    national: 166
+    regional: 21
   owned: no
 
 - name: Spinarak
-  number: 22
+  number:
+    national: 167
+    regional: 22
   owned: no
 
 - name: Ariados
-  number: 23
+  number:
+    national: 168
+    regional: 23
   owned: no
 
 - name: Pichu
-  number: 24
+  number:
+    national: 172
+    regional: 24
   owned: yes
 
 - name: Pikachu
-  number: 25
+  number:
+    national: 25
+    regional: 25
   owned: no
 
 - name: Raichu
-  number: 26
+  number:
+    national: 26
+    regional: 26
   owned: yes
 
 - name: Grubbin
-  number: 27
+  number:
+    national: 736
+    regional: 27
   owned: yes
 
 - name: Charjabug
-  number: 28
+  number:
+    national: 737
+    regional: 28
   owned: no
 
 - name: Vikavolt
-  number: 29
+  number:
+    national: 738
+    regional: 29
   owned: no
 
 - name: Bonsly
-  number: 30
+  number:
+    national: 438
+    regional: 30
   owned: yes
 
 - name: Sudowoodo
-  number: 31
+  number:
+    national: 185
+    regional: 31
   owned: no
 
 - name: Happiny
-  number: 32
+  number:
+    national: 440
+    regional: 32
   owned: yes
 
 - name: Chansey
-  number: 33
+  number:
+    national: 113
+    regional: 33
   owned: no
 
 - name: Blissey
-  number: 34
+  number:
+    national: 242
+    regional: 34
   owned: no
 
 - name: Munchlax
-  number: 35
+  number:
+    national: 446
+    regional: 35
   owned: yes
 
 - name: Snorlax
-  number: 36
+  number:
+    national: 143
+    regional: 36
   owned: no
 
 - name: Slowpoke
-  number: 37
+  number:
+    national: 79
+    regional: 37
   owned: yes
 
 - name: Slowbro
-  number: 38
+  number:
+    national: 80
+    regional: 38
   owned: no
 
 - name: Slowking
-  number: 39
+  number:
+    national: 199
+    regional: 39
   owned: no
 
 - name: Wingull
-  number: 40
+  number:
+    national: 278
+    regional: 40
   owned: yes
 
 - name: Pelipper
-  number: 41
+  number:
+    national: 279
+    regional: 41
   owned: no
 
 - name: Abra
-  number: 42
+  number:
+    national: 63
+    regional: 42
   owned: yes
 
 - name: Kadabra
-  number: 43
+  number:
+    national: 64
+    regional: 43
   owned: yes
 
 - name: Alakazam
-  number: 44
+  number:
+    national: 65
+    regional: 44
   owned: yes
 
 - name: Meowth
-  number: 45
+  number:
+    national: 52
+    regional: 45
   owned: yes
 
 - name: Persian
-  number: 46
+  number:
+    national: 53
+    regional: 46
   owned: no
 
 - name: Magnemite
-  number: 47
+  number:
+    national: 81
+    regional: 47
   owned: yes
 
 - name: Magneton
-  number: 48
+  number:
+    national: 82
+    regional: 48
   owned: no
 
 - name: Magnezone
-  number: 49
+  number:
+    national: 462
+    regional: 49
   owned: no
 
 - name: Grimer
-  number: 50
+  number:
+    national: 88
+    regional: 50
   owned: yes
 
 - name: Muk
-  number: 51
+  number:
+    national: 89
+    regional: 51
   owned: no
 
 - name: Growlithe
-  number: 52
+  number:
+    national: 58
+    regional: 52
   owned: yes
 
 - name: Arcanine
-  number: 53
+  number:
+    national: 59
+    regional: 53
   owned: yes
 
 - name: Drowzee
-  number: 54
+  number:
+    national: 96
+    regional: 54
   owned: yes
 
 - name: Hypno
-  number: 55
+  number:
+    national: 97
+    regional: 55
   owned: no
 
 - name: Makuhita
-  number: 56
+  number:
+    national: 296
+    regional: 56
   owned: yes
 
 - name: Hariyama
-  number: 57
+  number:
+    national: 297
+    regional: 57
   owned: no
 
 - name: Smeargle
-  number: 58
+  number:
+    national: 235
+    regional: 58
   owned: yes
 
 - name: Crabrawler
-  number: 59
+  number:
+    national: 739
+    regional: 59
   owned: yes
 
 - name: Crabominable
-  number: 60
+  number:
+    national: 740
+    regional: 60
   owned: no
 
 - name: Gastly
-  number: 61
+  number:
+    national: 92
+    regional: 61
   owned: no
 
 - name: Haunter
-  number: 62
+  number:
+    national: 93
+    regional: 62
   owned: no
 
 - name: Gengar
-  number: 63
+  number:
+    national: 94
+    regional: 63
   owned: no
 
 - name: Drifloon
-  number: 64
+  number:
+    national: 425
+    regional: 64
   owned: no
 
 - name: Drifblim
-  number: 65
+  number:
+    national: 426
+    regional: 65
   owned: no
 
 - name: Misdreavus
-  number: 66
+  number:
+    national: 200
+    regional: 66
   owned: no
 
 - name: Mismagius
-  number: 67
+  number:
+    national: 429
+    regional: 67
   owned: no
 
 - name: Zubat
-  number: 68
+  number:
+    national: 41
+    regional: 68
   owned: yes
 
 - name: Golbat
-  number: 69
+  number:
+    national: 42
+    regional: 69
   owned: no
 
 - name: Crobat
-  number: 70
+  number:
+    national: 169
+    regional: 70
   owned: no
 
 - name: Diglett
-  number: 71
+  number:
+    national: 50
+    regional: 71
   owned: yes
 
 - name: Dugtrio
-  number: 72
+  number:
+    national: 51
+    regional: 72
   owned: no
 
 - name: Spearow
-  number: 73
+  number:
+    national: 21
+    regional: 73
   owned: yes
 
 - name: Fearow
-  number: 74
+  number:
+    national: 22
+    regional: 74
   owned: yes
 
 - name: Rufflet
-  number: 75
+  number:
+    national: 627
+    regional: 75
   owned: no
 
 - name: Braviary
-  number: 76
+  number:
+    national: 628
+    regional: 76
   owned: no
 
 - name: Vullaby
-  number: 77
+  number:
+    national: 629
+    regional: 77
   owned: yes
 
 - name: Mandibuzz
-  number: 78
+  number:
+    national: 630
+    regional: 78
   owned: no
 
 - name: Mankey
-  number: 79
+  number:
+    national: 56
+    regional: 79
   owned: yes
 
 - name: Primeape
-  number: 80
+  number:
+    national: 57
+    regional: 80
   owned: no
 
 - name: Delibird
-  number: 81
+  number:
+    national: 225
+    regional: 81
   owned: yes
 
 - name: Oricorio
-  number: 82
+  number:
+    national: 741
+    regional: 82
   owned: yes
 
 - name: Cutiefly
-  number: 83
+  number:
+    national: 742
+    regional: 83
   owned: yes
 
 - name: Ribombee
-  number: 84
+  number:
+    national: 743
+    regional: 84
   owned: no
 
 - name: Petilil
-  number: 85
+  number:
+    national: 548
+    regional: 85
   owned: yes
 
 - name: Lilligant
-  number: 86
+  number:
+    national: 549
+    regional: 86
   owned: no
 
 - name: Cottonee
-  number: 87
+  number:
+    national: 546
+    regional: 87
   owned: no
 
 - name: Whimsicott
-  number: 88
+  number:
+    national: 547
+    regional: 88
   owned: no
 
 - name: Psyduck
-  number: 89
+  number:
+    national: 54
+    regional: 89
   owned: yes
 
 - name: Golduck
-  number: 90
+  number:
+    national: 55
+    regional: 90
   owned: no
 
 - name: Magikarp
-  number: 91
+  number:
+    national: 129
+    regional: 91
   owned: yes
 
 - name: Gyarados
-  number: 92
+  number:
+    national: 130
+    regional: 92
   owned: no
 
 - name: Barboach
-  number: 93
+  number:
+    national: 339
+    regional: 93
   owned: no
 
 - name: Whiscash
-  number: 94
+  number:
+    national: 340
+    regional: 94
   owned: no
 
 - name: Machop
-  number: 95
+  number:
+    national: 66
+    regional: 95
   owned: yes
 
 - name: Machoke
-  number: 96
+  number:
+    national: 67
+    regional: 96
   owned: no
 
 - name: Machamp
-  number: 97
+  number:
+    national: 68
+    regional: 97
   owned: no
 
 - name: Roggenrola
-  number: 98
+  number:
+    national: 524
+    regional: 98
   owned: yes
 
 - name: Boldore
-  number: 99
+  number:
+    national: 525
+    regional: 99
   owned: yes
 
 - name: Gigalith
-  number: 100
+  number:
+    national: 526
+    regional: 100
   owned: yes
 
 - name: Carbink
-  number: 101
+  number:
+    national: 703
+    regional: 101
   owned: yes
 
 - name: Sableye
-  number: 102
+  number:
+    national: 302
+    regional: 102
   owned: yes
 
 - name: Rockruff
-  number: 103
+  number:
+    national: 744
+    regional: 103
   owned: yes
 
 - name: Lycanroc
-  number: 104
+  number:
+    national: 745
+    regional: 104
   owned: no
 
 - name: Spinda
-  number: 105
+  number:
+    national: 327
+    regional: 105
   owned: yes
 
 - name: Tentacool
-  number: 106
+  number:
+    national: 72
+    regional: 106
   owned: yes
 
 - name: Tentacruel
-  number: 107
+  number:
+    national: 73
+    regional: 107
   owned: no
 
 - name: Finneon
-  number: 108
+  number:
+    national: 456
+    regional: 108
   owned: yes
 
 - name: Lumineon
-  number: 109
+  number:
+    national: 457
+    regional: 109
   owned: no
 
 - name: Wishiwashi
-  number: 110
+  number:
+    national: 746
+    regional: 110
   owned: yes
 
 - name: Luvdisc
-  number: 111
+  number:
+    national: 370
+    regional: 111
   owned: yes
 
 - name: Corsola
-  number: 112
+  number:
+    national: 222
+    regional: 112
   owned: yes
 
 - name: Mareanie
-  number: 113
+  number:
+    national: 747
+    regional: 113
   owned: yes
 
 - name: Toxapex
-  number: 114
+  number:
+    national: 748
+    regional: 114
   owned: no
 
 - name: Shellder
-  number: 115
+  number:
+    national: 90
+    regional: 115
   owned: yes
 
 - name: Cloyster
-  number: 116
+  number:
+    national: 91
+    regional: 116
   owned: no
 
 - name: Bagon
-  number: 117
+  number:
+    national: 371
+    regional: 117
   owned: yes
 
 - name: Shelgon
-  number: 118
+  number:
+    national: 372
+    regional: 118
   owned: yes
 
 - name: Salamence
-  number: 119
+  number:
+    national: 373
+    regional: 119
   owned: no
 
 - name: Lillipup
-  number: 120
+  number:
+    national: 506
+    regional: 120
   owned: yes
 
 - name: Herdier
-  number: 121
+  number:
+    national: 507
+    regional: 121
   owned: no
 
 - name: Stoutland
-  number: 122
+  number:
+    national: 508
+    regional: 122
   owned: no
 
 - name: Eevee
-  number: 123
+  number:
+    national: 133
+    regional: 123
   owned: yes
 
 - name: Vaporeon
-  number: 124
+  number:
+    national: 134
+    regional: 124
   owned: yes
 
 - name: Jolteon
-  number: 125
+  number:
+    national: 135
+    regional: 125
   owned: yes
 
 - name: Flareon
-  number: 126
+  number:
+    national: 136
+    regional: 126
   owned: yes
 
 - name: Espeon
-  number: 127
+  number:
+    national: 196
+    regional: 127
   owned: no
 
 - name: Umbreon
-  number: 128
+  number:
+    national: 197
+    regional: 128
   owned: yes
 
 - name: Leafeon
-  number: 129
+  number:
+    national: 470
+    regional: 129
   owned: no
 
 - name: Glaceon
-  number: 130
+  number:
+    national: 471
+    regional: 130
   owned: no
 
 - name: Sylveon
-  number: 131
+  number:
+    national: 700
+    regional: 131
   owned: yes
 
 - name: Mudbray
-  number: 132
+  number:
+    national: 749
+    regional: 132
   owned: yes
 
 - name: Mudsdale
-  number: 133
+  number:
+    national: 750
+    regional: 133
   owned: no
 
 - name: Igglybuff
-  number: 134
+  number:
+    national: 174
+    regional: 134
   owned: yes
 
 - name: Jigglypuff
-  number: 135
+  number:
+    national: 39
+    regional: 135
   owned: no
 
 - name: Wigglytuff
-  number: 136
+  number:
+    national: 40
+    regional: 136
   owned: no
 
 - name: Tauros
-  number: 137
+  number:
+    national: 128
+    regional: 137
   owned: yes
 
 - name: Miltank
-  number: 138
+  number:
+    national: 241
+    regional: 138
   owned: yes
 
 - name: Surskit
-  number: 139
+  number:
+    national: 283
+    regional: 139
   owned: no
 
 - name: Masquerain
-  number: 140
+  number:
+    national: 284
+    regional: 140
   owned: no
 
 - name: Dewpider
-  number: 141
+  number:
+    national: 751
+    regional: 141
   owned: yes
 
 - name: Araquanid
-  number: 142
+  number:
+    national: 752
+    regional: 142
   owned: yes
 
 - name: Fomantis
-  number: 143
+  number:
+    national: 753
+    regional: 143
   owned: no
 
 - name: Lurantis
-  number: 144
+  number:
+    national: 754
+    regional: 144
   owned: no
 
 - name: Morelull
-  number: 145
+  number:
+    national: 755
+    regional: 145
   owned: yes
 
 - name: Shiinotic
-  number: 146
+  number:
+    national: 756
+    regional: 146
   owned: no
 
 - name: Paras
-  number: 147
+  number:
+    national: 46
+    regional: 147
   owned: yes
 
 - name: Parasect
-  number: 148
+  number:
+    national: 47
+    regional: 148
   owned: yes
 
 - name: Poliwag
-  number: 149
+  number:
+    national: 60
+    regional: 149
   owned: no
 
 - name: Poliwhirl
-  number: 150
+  number:
+    national: 61
+    regional: 150
   owned: no
 
 - name: Poliwrath
-  number: 151
+  number:
+    national: 62
+    regional: 151
   owned: no
 
 - name: Politoed
-  number: 152
+  number:
+    national: 186
+    regional: 152
   owned: no
 
 - name: Goldeen
-  number: 153
+  number:
+    national: 118
+    regional: 153
   owned: yes
 
 - name: Seaking
-  number: 154
+  number:
+    national: 119
+    regional: 154
   owned: no
 
 - name: Feebas
-  number: 155
+  number:
+    national: 349
+    regional: 155
   owned: yes
 
 - name: Milotic
-  number: 156
+  number:
+    national: 350
+    regional: 156
   owned: yes
 
 - name: Alomomola
-  number: 157
+  number:
+    national: 594
+    regional: 157
   owned: no
 
 - name: Fletchling
-  number: 158
+  number:
+    national: 661
+    regional: 158
   owned: yes
 
 - name: Fletchinder
-  number: 159
+  number:
+    national: 662
+    regional: 159
   owned: no
 
 - name: Talonflame
-  number: 160
+  number:
+    national: 663
+    regional: 160
   owned: no
 
 - name: Salandit
-  number: 161
+  number:
+    national: 757
+    regional: 161
   owned: yes
 
 - name: Salazzle
-  number: 162
+  number:
+    national: 758
+    regional: 162
   owned: yes
 
 - name: Cubone
-  number: 163
+  number:
+    national: 104
+    regional: 163
   owned: yes
 
 - name: Marowak
-  number: 164
+  number:
+    national: 105
+    regional: 164
   owned: no
 
 - name: Kangaskhan
-  number: 165
+  number:
+    national: 115
+    regional: 165
   owned: yes
 
 - name: Magby
-  number: 166
+  number:
+    national: 240
+    regional: 166
   owned: yes
 
 - name: Magmar
-  number: 167
+  number:
+    national: 126
+    regional: 167
   owned: yes
 
 - name: Magmortar
-  number: 168
+  number:
+    national: 467
+    regional: 168
   owned: no
 
 - name: Stufful
-  number: 169
+  number:
+    national: 759
+    regional: 169
   owned: no
 
 - name: Bewear
-  number: 170
+  number:
+    national: 760
+    regional: 170
   owned: no
 
 - name: Bounsweet
-  number: 171
+  number:
+    national: 761
+    regional: 171
   owned: no
 
 - name: Steenee
-  number: 172
+  number:
+    national: 762
+    regional: 172
   owned: no
 
 - name: Tsareena
-  number: 173
+  number:
+    national: 763
+    regional: 173
   owned: no
 
 - name: Comfey
-  number: 174
+  number:
+    national: 764
+    regional: 174
   owned: no
 
 - name: Pinsir
-  number: 175
+  number:
+    national: 127
+    regional: 175
   owned: no
 
 - name: Oranguru
-  number: 176
+  number:
+    national: 765
+    regional: 176
   owned: no
 
 - name: Passimian
-  number: 177
+  number:
+    national: 766
+    regional: 177
   owned: no
 
 - name: Goomy
-  number: 178
+  number:
+    national: 704
+    regional: 178
   owned: no
 
 - name: Sliggoo
-  number: 179
+  number:
+    national: 705
+    regional: 179
   owned: no
 
 - name: Goodra
-  number: 180
+  number:
+    national: 706
+    regional: 180
   owned: no
 
 - name: Castform
-  number: 181
+  number:
+    national: 351
+    regional: 181
   owned: no
 
 - name: Wimpod
-  number: 182
+  number:
+    national: 767
+    regional: 182
   owned: no
 
 - name: Golisopod
-  number: 183
+  number:
+    national: 768
+    regional: 183
   owned: no
 
 - name: Staryu
-  number: 184
+  number:
+    national: 120
+    regional: 184
   owned: yes
 
 - name: Starmie
-  number: 185
+  number:
+    national: 121
+    regional: 185
   owned: no
 
 - name: Sandygast
-  number: 186
+  number:
+    national: 769
+    regional: 186
   owned: no
 
 - name: Palossand
-  number: 187
+  number:
+    national: 770
+    regional: 187
   owned: no
 
 - name: Cranidos
-  number: 188
+  number:
+    national: 408
+    regional: 188
   owned: no
 
 - name: Rampardos
-  number: 189
+  number:
+    national: 409
+    regional: 189
   owned: no
 
 - name: Shieldon
-  number: 190
+  number:
+    national: 410
+    regional: 190
   owned: no
 
 - name: Bastiodon
-  number: 191
+  number:
+    national: 411
+    regional: 191
   owned: no
 
 - name: Archen
-  number: 192
+  number:
+    national: 566
+    regional: 192
   owned: no
 
 - name: Archeops
-  number: 193
+  number:
+    national: 567
+    regional: 193
   owned: no
 
 - name: Tirtouga
-  number: 194
+  number:
+    national: 564
+    regional: 194
   owned: no
 
 - name: Carracosta
-  number: 195
+  number:
+    national: 565
+    regional: 195
   owned: no
 
 - name: Phantump
-  number: 196
+  number:
+    national: 708
+    regional: 196
   owned: no
 
 - name: Trevenant
-  number: 197
+  number:
+    national: 709
+    regional: 197
   owned: no
 
 - name: Nosepass
-  number: 198
+  number:
+    national: 299
+    regional: 198
   owned: no
 
 - name: Probopass
-  number: 199
+  number:
+    national: 476
+    regional: 199
   owned: no
 
 - name: Pyukumuku
-  number: 200
+  number:
+    national: 771
+    regional: 200
   owned: no
 
 - name: Chinchou
-  number: 201
+  number:
+    national: 170
+    regional: 201
   owned: no
 
 - name: Lanturn
-  number: 202
+  number:
+    national: 171
+    regional: 202
   owned: no
 
 - name: "Type: Null"
-  number: 203
+  number:
+    national: 772
+    regional: 203
   owned: no
 
 - name: Silvally
-  number: 204
+  number:
+    national: 773
+    regional: 204
   owned: no
 
 - name: Zygarde
-  number: 205
+  number:
+    national: 718
+    regional: 205
   owned: yes
 
 - name: Trubbish
-  number: 206
+  number:
+    national: 568
+    regional: 206
   owned: yes
 
 - name: Garbodor
-  number: 207
+  number:
+    national: 569
+    regional: 207
   owned: no
 
 - name: Skarmory
-  number: 208
+  number:
+    national: 227
+    regional: 208
   owned: no
 
 - name: Ditto
-  number: 209
+  number:
+    national: 132
+    regional: 209
   owned: yes
 
 - name: Cleffa
-  number: 210
+  number:
+    national: 173
+    regional: 210
   owned: no
 
 - name: Clefairy
-  number: 211
+  number:
+    national: 35
+    regional: 211
   owned: no
 
 - name: Clefable
-  number: 212
+  number:
+    national: 36
+    regional: 212
   owned: no
 
 - name: Minior
-  number: 213
+  number:
+    national: 774
+    regional: 213
   owned: no
 
 - name: Beldum
-  number: 214
+  number:
+    national: 374
+    regional: 214
   owned: no
 
 - name: Metang
-  number: 215
+  number:
+    national: 375
+    regional: 215
   owned: no
 
 - name: Metagross
-  number: 216
+  number:
+    national: 376
+    regional: 216
   owned: no
 
 - name: Porygon
-  number: 217
+  number:
+    national: 137
+    regional: 217
   owned: no
 
 - name: Porygon2
-  number: 218
+  number:
+    national: 233
+    regional: 218
   owned: no
 
 - name: Porygon-Z
-  number: 219
+  number:
+    national: 474
+    regional: 219
   owned: no
 
 - name: Pancham
-  number: 220
+  number:
+    national: 674
+    regional: 220
   owned: no
 
 - name: Pangoro
-  number: 221
+  number:
+    national: 675
+    regional: 221
   owned: no
 
 - name: Komala
-  number: 222
+  number:
+    national: 775
+    regional: 222
   owned: yes
 
 - name: Torkoal
-  number: 223
+  number:
+    national: 324
+    regional: 223
   owned: no
 
 - name: Turtonator
-  number: 224
+  number:
+    national: 776
+    regional: 224
   owned: yes
 
 - name: Togedemaru
-  number: 225
+  number:
+    national: 777
+    regional: 225
   owned: yes
 
 - name: Elekid
-  number: 226
+  number:
+    national: 239
+    regional: 226
   owned: no
 
 - name: Electabuzz
-  number: 227
+  number:
+    national: 125
+    regional: 227
   owned: no
 
 - name: Electivire
-  number: 228
+  number:
+    national: 466
+    regional: 228
   owned: no
 
 - name: Geodude
-  number: 229
+  number:
+    national: 74
+    regional: 229
   owned: yes
 
 - name: Graveler
-  number: 230
+  number:
+    national: 75
+    regional: 230
   owned: yes
 
 - name: Golem
-  number: 231
+  number:
+    national: 76
+    regional: 231
   owned: no
 
 - name: Sandile
-  number: 232
+  number:
+    national: 551
+    regional: 232
   owned: no
 
 - name: Krokorok
-  number: 233
+  number:
+    national: 552
+    regional: 233
   owned: no
 
 - name: Krookodile
-  number: 234
+  number:
+    national: 553
+    regional: 234
   owned: no
 
 - name: Trapinch
-  number: 235
+  number:
+    national: 328
+    regional: 235
   owned: no
 
 - name: Vibrava
-  number: 236
+  number:
+    national: 329
+    regional: 236
   owned: no
 
 - name: Flygon
-  number: 237
+  number:
+    national: 330
+    regional: 237
   owned: no
 
 - name: Gible
-  number: 238
+  number:
+    national: 443
+    regional: 238
   owned: no
 
 - name: Gabite
-  number: 239
+  number:
+    national: 444
+    regional: 239
   owned: no
 
 - name: Garchomp
-  number: 240
+  number:
+    national: 445
+    regional: 240
   owned: no
 
 - name: Klefki
-  number: 241
+  number:
+    national: 707
+    regional: 241
   owned: yes
 
 - name: Mimikyu
-  number: 242
+  number:
+    national: 778
+    regional: 242
   owned: no
 
 - name: Bruxish
-  number: 243
+  number:
+    national: 779
+    regional: 243
   owned: no
 
 - name: Drampa
-  number: 244
+  number:
+    national: 780
+    regional: 244
   owned: no
 
 - name: Absol
-  number: 245
+  number:
+    national: 359
+    regional: 245
   owned: yes
 
 - name: Snorunt
-  number: 246
+  number:
+    national: 361
+    regional: 246
   owned: yes
 
 - name: Glalie
-  number: 247
+  number:
+    national: 362
+    regional: 247
   owned: no
 
 - name: Froslass
-  number: 248
+  number:
+    national: 478
+    regional: 248
   owned: no
 
 - name: Sneasel
-  number: 249
+  number:
+    national: 215
+    regional: 249
   owned: no
 
 - name: Weavile
-  number: 250
+  number:
+    national: 461
+    regional: 250
   owned: no
 
 - name: Sandshrew
-  number: 251
+  number:
+    national: 27
+    regional: 251
   owned: yes
 
 - name: Sandslash
-  number: 252
+  number:
+    national: 28
+    regional: 252
   owned: yes
 
 - name: Vulpix
-  number: 253
+  number:
+    national: 37
+    regional: 253
   owned: no
 
 - name: Ninetales
-  number: 254
+  number:
+    national: 38
+    regional: 254
   owned: no
 
 - name: Vanillite
-  number: 255
+  number:
+    national: 582
+    regional: 255
   owned: no
 
 - name: Vanillish
-  number: 256
+  number:
+    national: 583
+    regional: 256
   owned: no
 
 - name: Vanilluxe
-  number: 257
+  number:
+    national: 584
+    regional: 257
   owned: no
 
 - name: Snubbull
-  number: 258
+  number:
+    national: 209
+    regional: 258
   owned: no
 
 - name: Granbull
-  number: 259
+  number:
+    national: 210
+    regional: 259
   owned: no
 
 - name: Shellos
-  number: 260
+  number:
+    national: 422
+    regional: 260
   owned: no
 
 - name: Gastrodon
-  number: 261
+  number:
+    national: 423
+    regional: 261
   owned: yes
 
 - name: Relicanth
-  number: 262
+  number:
+    national: 369
+    regional: 262
   owned: no
 
 - name: Dhelmise
-  number: 263
+  number:
+    national: 781
+    regional: 263
   owned: no
 
 - name: Carvanha
-  number: 264
+  number:
+    national: 318
+    regional: 264
   owned: no
 
 - name: Sharpedo
-  number: 265
+  number:
+    national: 319
+    regional: 265
   owned: no
 
 - name: Wailmer
-  number: 266
+  number:
+    national: 320
+    regional: 266
   owned: no
 
 - name: Wailord
-  number: 267
+  number:
+    national: 321
+    regional: 267
   owned: no
 
 - name: Lapras
-  number: 268
+  number:
+    national: 131
+    regional: 268
   owned: no
 
 - name: Exeggcute
-  number: 269
+  number:
+    national: 102
+    regional: 269
   owned: yes
 
 - name: Exeggutor
-  number: 270
+  number:
+    national: 103
+    regional: 270
   owned: yes
 
 - name: Jangmo-o
-  number: 271
+  number:
+    national: 782
+    regional: 271
   owned: no
 
 - name: Hakamo-o
-  number: 272
+  number:
+    national: 783
+    regional: 272
   owned: no
 
 - name: Kommo-o
-  number: 273
+  number:
+    national: 784
+    regional: 273
   owned: no
 
 - name: Emolga
-  number: 274
+  number:
+    national: 587
+    regional: 274
   owned: no
 
 - name: Scyther
-  number: 275
+  number:
+    national: 123
+    regional: 275
   owned: yes
 
 - name: Scizor
-  number: 276
+  number:
+    national: 212
+    regional: 276
   owned: no
 
 - name: Murkrow
-  number: 277
+  number:
+    national: 198
+    regional: 277
   owned: no
 
 - name: Honchkrow
-  number: 278
+  number:
+    national: 430
+    regional: 278
   owned: no
 
 - name: Riolu
-  number: 279
+  number:
+    national: 447
+    regional: 279
   owned: no
 
 - name: Lucario
-  number: 280
+  number:
+    national: 448
+    regional: 280
   owned: no
 
 - name: Dratini
-  number: 281
+  number:
+    national: 147
+    regional: 281
   owned: no
 
 - name: Dragonair
-  number: 282
+  number:
+    national: 148
+    regional: 282
   owned: no
 
 - name: Dragonite
-  number: 283
+  number:
+    national: 149
+    regional: 283
   owned: no
 
 - name: Aerodactyl
-  number: 284
+  number:
+    national: 142
+    regional: 284
   owned: yes
 
 - name: Tapu Koko
-  number: 285
+  number:
+    national: 785
+    regional: 285
   owned: no
 
 - name: Tapu Lele
-  number: 286
+  number:
+    national: 786
+    regional: 286
   owned: no
 
 - name: Tapu Bulu
-  number: 287
+  number:
+    national: 787
+    regional: 287
   owned: no
 
 - name: Tapu Fini
-  number: 288
+  number:
+    national: 788
+    regional: 288
   owned: no
 
 - name: Cosmog
-  number: 289
+  number:
+    national: 789
+    regional: 289
   owned: no
 
 - name: Cosmoem
-  number: 290
+  number:
+    national: 790
+    regional: 290
   owned: no
 
 - name: Solgaleo
-  number: 291
+  number:
+    national: 791
+    regional: 291
   owned: yes
 
 - name: Lunala
-  number: 292
+  number:
+    national: 792
+    regional: 292
   owned: yes
 
 - name: Nihilego
-  number: 293
+  number:
+    national: 793
+    regional: 293
   owned: yes
 
 - name: Buzzwole
-  number: 294
+  number:
+    national: 794
+    regional: 294
   owned: no
 
 - name: Pheromosa
-  number: 295
+  number:
+    national: 795
+    regional: 295
   owned: no
 
 - name: Xurkitree
-  number: 296
+  number:
+    national: 796
+    regional: 296
   owned: no
 
 - name: Celesteela
-  number: 297
+  number:
+    national: 797
+    regional: 297
   owned: no
 
 - name: Kartana
-  number: 298
+  number:
+    national: 798
+    regional: 298
   owned: yes
 
 - name: Guzzlord
-  number: 299
+  number:
+    national: 799
+    regional: 299
   owned: no
 
 - name: Necrozma
-  number: 300
+  number:
+    national: 800
+    regional: 300
   owned: no
 
 - name: Magearna
-  number: 301
+  number:
+    national: 801
+    regional: 301
   owned: yes
 
+- name: Marshadow
+  number:
+    national: 802
+    regional: 302
+  owned: no

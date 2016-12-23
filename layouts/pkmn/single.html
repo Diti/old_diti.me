@@ -6,7 +6,19 @@
   <div class="content container">
     <div class="post">
       <h1>{{ .Title }}</h1>
-      {{ $myPokedex := (index .Site.Data.pokemon.pokedex_sm) }} {{ .Content }}
+      {{ $myPokedex := (index .Site.Data.pokemon.pokedex_sm) }}
+
+      {{- $.Scratch.Add "pkmnLeft" 0 }}
+      {{- range $myPokedex.pokemons -}}
+        {{- if not .owned -}}
+          {{- $.Scratch.Add "pkmnLeft" 1 -}}
+        {{- end -}}
+      {{- end -}}
+
+      <p>
+        The following table lists the {{ $.Scratch.Get "pkmnLeft" }} pokémons in Pokémon Moon that I
+        <em>do <strong>not</strong> own</em>, and am willing to trade.
+      </p>
 
       <table>
         <thead>
@@ -16,12 +28,20 @@
           </tr>
         </thead>
         <tbody>
-          {{- range $myPokedex.pokemons }} {{ if not .owned }}
-          <tr>
-            <td>{{ printf "%03d" .number }}</td>
-            <td>{{ .name }}</td>
-          </tr>
-          {{- end -}} {{ end }}
+          {{- range $myPokedex.pokemons -}}
+            {{ if not .owned }}
+              <tr>
+                <td>{{ printf "%03d" .number.regional }}</td>
+                <td>
+                  {{- if .number.national -}}
+                    <a href="http://www.serebii.net/pokedex-sm/{{ printf "%03d" .number.national }}.shtml">{{ .name }}</a>
+                  {{- else -}}
+                    {{ .name }}
+                  {{- end -}}
+                </td>
+              </tr>
+            {{- end -}}
+          {{- end -}}
         </tbody>
       </table>
 
