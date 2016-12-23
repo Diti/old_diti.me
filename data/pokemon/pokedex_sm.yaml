@@ -546,11 +546,11 @@ pokemons:
 
 - name: Tauros
   number: 137
-  owned: no
+  owned: yes
 
 - name: Miltank
   number: 138
-  owned: no
+  owned: yes
 
 - name: Surskit
   number: 139
