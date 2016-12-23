@@ -40,7 +40,7 @@ pokemons:
   number:
     national: 728
     regional: 7
-  owned: no
+  owned: yes
 
 - name: Brionne
   number:
