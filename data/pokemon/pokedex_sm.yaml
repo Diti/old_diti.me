@@ -892,7 +892,7 @@ pokemons:
   number:
     national: 60
     regional: 149
-  owned: no
+  owned: yes
 
 - name: Poliwhirl
   number:
@@ -1780,7 +1780,7 @@ pokemons:
   number:
     national: 797
     regional: 297
-  owned: no
+  owned: yes
 
 - name: Kartana
   number:
