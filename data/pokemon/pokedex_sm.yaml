@@ -46,7 +46,7 @@ pokemons:
   number:
     national: 729
     regional: 8
-  owned: no
+  owned: yes
 
 - name: Primarina
   number:
@@ -64,7 +64,7 @@ pokemons:
   number:
     national: 732
     regional: 11
-  owned: no
+  owned: yes
 
 - name: Toucannon
   number:
@@ -1042,7 +1042,7 @@ pokemons:
   number:
     national: 764
     regional: 174
-  owned: no
+  owned: yes
 
 - name: Pinsir
   number:
@@ -1768,13 +1768,13 @@ pokemons:
   number:
     national: 795
     regional: 295
-  owned: no
+  owned: yes
 
 - name: Xurkitree
   number:
     national: 796
     regional: 296
-  owned: no
+  owned: yes
 
 - name: Celesteela
   number:
