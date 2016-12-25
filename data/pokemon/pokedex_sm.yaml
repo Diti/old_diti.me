@@ -370,7 +370,7 @@ pokemons:
   number:
     national: 93
     regional: 62
-  owned: no
+  owned: yes
 
 - name: Gengar
   number:
@@ -1096,7 +1096,7 @@ pokemons:
   number:
     national: 768
     regional: 183
-  owned: no
+  owned: yes
 
 - name: Staryu
   number:
@@ -1384,7 +1384,7 @@ pokemons:
   number:
     national: 76
     regional: 231
-  owned: no
+  owned: yes
 
 - name: Sandile
   number:
@@ -1408,7 +1408,7 @@ pokemons:
   number:
     national: 328
     regional: 235
-  owned: no
+  owned: yes
 
 - name: Vibrava
   number:
@@ -1450,7 +1450,7 @@ pokemons:
   number:
     national: 778
     regional: 242
-  owned: no
+  owned: yes
 
 - name: Bruxish
   number:
@@ -1792,7 +1792,7 @@ pokemons:
   number:
     national: 799
     regional: 299
-  owned: no
+  owned: yes
 
 - name: Necrozma
   number:
