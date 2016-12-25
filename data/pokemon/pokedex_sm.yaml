@@ -52,7 +52,7 @@ pokemons:
   number:
     national: 730
     regional: 9
-  owned: no
+  owned: yes
 
 - name: Pikipek
   number:
@@ -1708,25 +1708,25 @@ pokemons:
   number:
     national: 785
     regional: 285
-  owned: no
+  owned: yes
 
 - name: Tapu Lele
   number:
     national: 786
     regional: 286
-  owned: no
+  owned: yes
 
 - name: Tapu Bulu
   number:
     national: 787
     regional: 287
-  owned: no
+  owned: yes
 
 - name: Tapu Fini
   number:
     national: 788
     regional: 288
-  owned: no
+  owned: yes
 
 - name: Cosmog
   number:
