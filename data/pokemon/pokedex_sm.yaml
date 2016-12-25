@@ -382,7 +382,7 @@ pokemons:
   number:
     national: 425
     regional: 64
-  owned: no
+  owned: yes
 
 - name: Drifblim
   number:
