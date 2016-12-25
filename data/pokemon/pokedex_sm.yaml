@@ -412,7 +412,7 @@ pokemons:
   number:
     national: 42
     regional: 69
-  owned: no
+  owned: yes
 
 - name: Crobat
   number:
@@ -430,7 +430,7 @@ pokemons:
   number:
     national: 51
     regional: 72
-  owned: no
+  owned: yes
 
 - name: Spearow
   number:
@@ -556,7 +556,7 @@ pokemons:
   number:
     national: 339
     regional: 93
-  owned: no
+  owned: yes
 
 - name: Whiscash
   number:
@@ -1390,7 +1390,7 @@ pokemons:
   number:
     national: 551
     regional: 232
-  owned: no
+  owned: yes
 
 - name: Krokorok
   number:
@@ -1642,7 +1642,7 @@ pokemons:
   number:
     national: 587
     regional: 274
-  owned: no
+  owned: yes
 
 - name: Scyther
   number:
