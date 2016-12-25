@@ -1126,7 +1126,7 @@ pokemons:
   number:
     national: 408
     regional: 188
-  owned: no
+  owned: yes
 
 - name: Rampardos
   number:
@@ -1300,7 +1300,7 @@ pokemons:
   number:
     national: 137
     regional: 217
-  owned: no
+  owned: yes
 
 - name: Porygon2
   number:
@@ -1732,13 +1732,13 @@ pokemons:
   number:
     national: 789
     regional: 289
-  owned: no
+  owned: yes
 
 - name: Cosmoem
   number:
     national: 790
     regional: 290
-  owned: no
+  owned: yes
 
 - name: Solgaleo
   number:
@@ -1762,7 +1762,7 @@ pokemons:
   number:
     national: 794
     regional: 294
-  owned: no
+  owned: yes
 
 - name: Pheromosa
   number:
@@ -1798,7 +1798,7 @@ pokemons:
   number:
     national: 800
     regional: 300
-  owned: no
+  owned: yes
 
 - name: Magearna
   number:
