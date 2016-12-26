@@ -328,7 +328,7 @@ pokemons:
   number:
     national: 97
     regional: 55
-  owned: no
+  owned: yes
 
 - name: Makuhita
   number:
@@ -340,7 +340,7 @@ pokemons:
   number:
     national: 297
     regional: 57
-  owned: no
+  owned: yes
 
 - name: Smeargle
   number:
@@ -694,7 +694,7 @@ pokemons:
   number:
     national: 91
     regional: 116
-  owned: no
+  owned: yes
 
 - name: Bagon
   number:
@@ -724,13 +724,13 @@ pokemons:
   number:
     national: 507
     regional: 121
-  owned: no
+  owned: yes
 
 - name: Stoutland
   number:
     national: 508
     regional: 122
-  owned: no
+  owned: yes
 
 - name: Eevee
   number:
@@ -808,7 +808,7 @@ pokemons:
   number:
     national: 39
     regional: 135
-  owned: no
+  owned: yes
 
 - name: Wigglytuff
   number:
@@ -874,7 +874,7 @@ pokemons:
   number:
     national: 756
     regional: 146
-  owned: no
+  owned: yes
 
 - name: Paras
   number:
@@ -958,7 +958,7 @@ pokemons:
   number:
     national: 663
     regional: 160
-  owned: no
+  owned: yes
 
 - name: Salandit
   number:
@@ -982,7 +982,7 @@ pokemons:
   number:
     national: 105
     regional: 164
-  owned: no
+  owned: yes
 
 - name: Kangaskhan
   number:
@@ -1018,7 +1018,7 @@ pokemons:
   number:
     national: 760
     regional: 170
-  owned: no
+  owned: yes
 
 - name: Bounsweet
   number:
@@ -1108,7 +1108,7 @@ pokemons:
   number:
     national: 121
     regional: 185
-  owned: no
+  owned: yes
 
 - name: Sandygast
   number:
@@ -1240,7 +1240,7 @@ pokemons:
   number:
     national: 569
     regional: 207
-  owned: no
+  owned: yes
 
 - name: Skarmory
   number:
@@ -1492,7 +1492,7 @@ pokemons:
   number:
     national: 215
     regional: 249
-  owned: no
+  owned: yes
 
 - name: Weavile
   number:
@@ -1540,7 +1540,7 @@ pokemons:
   number:
     national: 584
     regional: 257
-  owned: no
+  owned: yes
 
 - name: Snubbull
   number:
