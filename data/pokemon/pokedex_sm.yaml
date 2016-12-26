@@ -28,13 +28,13 @@ pokemons:
   number:
     national: 726
     regional: 5
-  owned: no
+  owned: yes
 
 - name: Incineroar
   number:
     national: 727
     regional: 6
-  owned: no
+  owned: yes
 
 - name: Popplio
   number:
@@ -94,7 +94,7 @@ pokemons:
   number:
     national: 20
     regional: 16
-  owned: no
+  owned: yes
 
 - name: Caterpie
   number:
@@ -112,7 +112,7 @@ pokemons:
   number:
     national: 12
     regional: 19
-  owned: no
+  owned: yes
 
 - name: Ledyba
   number:
@@ -124,19 +124,19 @@ pokemons:
   number:
     national: 166
     regional: 21
-  owned: no
+  owned: yes
 
 - name: Spinarak
   number:
     national: 167
     regional: 22
-  owned: no
+  owned: yes
 
 - name: Ariados
   number:
     national: 168
     regional: 23
-  owned: no
+  owned: yes
 
 - name: Pichu
   number:
@@ -376,7 +376,7 @@ pokemons:
   number:
     national: 94
     regional: 63
-  owned: no
+  owned: yes
 
 - name: Drifloon
   number:
@@ -502,7 +502,7 @@ pokemons:
   number:
     national: 743
     regional: 84
-  owned: no
+  owned: yes
 
 - name: Petilil
   number:
@@ -580,7 +580,7 @@ pokemons:
   number:
     national: 68
     regional: 97
-  owned: no
+  owned: yes
 
 - name: Roggenrola
   number:
@@ -622,7 +622,7 @@ pokemons:
   number:
     national: 745
     regional: 104
-  owned: no
+  owned: yes
 
 - name: Spinda
   number:
@@ -682,7 +682,7 @@ pokemons:
   number:
     national: 748
     regional: 114
-  owned: no
+  owned: yes
 
 - name: Shellder
   number:
@@ -922,7 +922,7 @@ pokemons:
   number:
     national: 119
     regional: 154
-  owned: no
+  owned: yes
 
 - name: Feebas
   number:
@@ -952,7 +952,7 @@ pokemons:
   number:
     national: 662
     regional: 159
-  owned: no
+  owned: yes
 
 - name: Talonflame
   number:
@@ -1054,13 +1054,13 @@ pokemons:
   number:
     national: 765
     regional: 176
-  owned: no
+  owned: yes
 
 - name: Passimian
   number:
     national: 766
     regional: 177
-  owned: no
+  owned: yes
 
 - name: Goomy
   number:
@@ -1090,7 +1090,7 @@ pokemons:
   number:
     national: 767
     regional: 182
-  owned: no
+  owned: yes
 
 - name: Golisopod
   number:
@@ -1528,13 +1528,13 @@ pokemons:
   number:
     national: 582
     regional: 255
-  owned: no
+  owned: yes
 
 - name: Vanillish
   number:
     national: 583
     regional: 256
-  owned: no
+  owned: yes
 
 - name: Vanilluxe
   number:
@@ -1576,7 +1576,7 @@ pokemons:
   number:
     national: 781
     regional: 263
-  owned: no
+  owned: yes
 
 - name: Carvanha
   number:
