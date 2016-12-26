@@ -70,7 +70,7 @@ pokemons:
   number:
     national: 733
     regional: 12
-  owned: no
+  owned: yes
 
 - name: Yungoos
   number:
@@ -82,7 +82,7 @@ pokemons:
   number:
     national: 735
     regional: 14
-  owned: no
+  owned: yes
 
 - name: Rattata
   number:
@@ -166,13 +166,13 @@ pokemons:
   number:
     national: 737
     regional: 28
-  owned: no
+  owned: yes
 
 - name: Vikavolt
   number:
     national: 738
     regional: 29
-  owned: no
+  owned: yes
 
 - name: Bonsly
   number:
@@ -244,7 +244,7 @@ pokemons:
   number:
     national: 279
     regional: 41
-  owned: no
+  owned: yes
 
 - name: Abra
   number:
@@ -292,7 +292,7 @@ pokemons:
   number:
     national: 462
     regional: 49
-  owned: no
+  owned: yes
 
 - name: Grimer
   number:
@@ -388,7 +388,7 @@ pokemons:
   number:
     national: 426
     regional: 65
-  owned: no
+  owned: yes
 
 - name: Misdreavus
   number:
@@ -538,7 +538,7 @@ pokemons:
   number:
     national: 55
     regional: 90
-  owned: no
+  owned: yes
 
 - name: Magikarp
   number:
@@ -562,7 +562,7 @@ pokemons:
   number:
     national: 340
     regional: 94
-  owned: no
+  owned: yes
 
 - name: Machop
   number:
@@ -574,7 +574,7 @@ pokemons:
   number:
     national: 67
     regional: 96
-  owned: no
+  owned: yes
 
 - name: Machamp
   number:
@@ -640,7 +640,7 @@ pokemons:
   number:
     national: 73
     regional: 107
-  owned: no
+  owned: yes
 
 - name: Finneon
   number:
@@ -712,7 +712,7 @@ pokemons:
   number:
     national: 373
     regional: 119
-  owned: no
+  owned: yes
 
 - name: Lillipup
   number:
@@ -856,13 +856,13 @@ pokemons:
   number:
     national: 753
     regional: 143
-  owned: no
+  owned: yes
 
 - name: Lurantis
   number:
     national: 754
     regional: 144
-  owned: no
+  owned: yes
 
 - name: Morelull
   number:
@@ -898,13 +898,13 @@ pokemons:
   number:
     national: 61
     regional: 150
-  owned: no
+  owned: yes
 
 - name: Poliwrath
   number:
     national: 62
     regional: 151
-  owned: no
+  owned: yes
 
 - name: Politoed
   number:
@@ -1084,7 +1084,7 @@ pokemons:
   number:
     national: 351
     regional: 181
-  owned: no
+  owned: yes
 
 - name: Wimpod
   number:
@@ -1114,13 +1114,13 @@ pokemons:
   number:
     national: 769
     regional: 186
-  owned: no
+  owned: yes
 
 - name: Palossand
   number:
     national: 770
     regional: 187
-  owned: no
+  owned: yes
 
 - name: Cranidos
   number:
@@ -1132,7 +1132,7 @@ pokemons:
   number:
     national: 409
     regional: 189
-  owned: no
+  owned: yes
 
 - name: Shieldon
   number:
@@ -1318,13 +1318,13 @@ pokemons:
   number:
     national: 674
     regional: 220
-  owned: no
+  owned: yes
 
 - name: Pangoro
   number:
     national: 675
     regional: 221
-  owned: no
+  owned: yes
 
 - name: Komala
   number:
@@ -1396,13 +1396,13 @@ pokemons:
   number:
     national: 552
     regional: 233
-  owned: no
+  owned: yes
 
 - name: Krookodile
   number:
     national: 553
     regional: 234
-  owned: no
+  owned: yes
 
 - name: Trapinch
   number:
@@ -1414,13 +1414,13 @@ pokemons:
   number:
     national: 329
     regional: 236
-  owned: no
+  owned: yes
 
 - name: Flygon
   number:
     national: 330
     regional: 237
-  owned: no
+  owned: yes
 
 - name: Gible
   number:
@@ -1456,7 +1456,7 @@ pokemons:
   number:
     national: 779
     regional: 243
-  owned: no
+  owned: yes
 
 - name: Drampa
   number:
@@ -1546,13 +1546,13 @@ pokemons:
   number:
     national: 209
     regional: 258
-  owned: no
+  owned: yes
 
 - name: Granbull
   number:
     national: 210
     regional: 259
-  owned: no
+  owned: yes
 
 - name: Shellos
   number:
