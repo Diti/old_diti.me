@@ -274,7 +274,7 @@ pokemons:
   number:
     national: 53
     regional: 46
-  owned: no
+  owned: yes
 
 - name: Magnemite
   number:
@@ -760,7 +760,7 @@ pokemons:
   number:
     national: 196
     regional: 127
-  owned: no
+  owned: yes
 
 - name: Umbreon
   number:
@@ -838,7 +838,7 @@ pokemons:
   number:
     national: 284
     regional: 140
-  owned: no
+  owned: yes
 
 - name: Dewpider
   number:
@@ -1186,13 +1186,13 @@ pokemons:
   number:
     national: 299
     regional: 198
-  owned: no
+  owned: yes
 
 - name: Probopass
   number:
     national: 476
     regional: 199
-  owned: no
+  owned: yes
 
 - name: Pyukumuku
   number:
@@ -1204,7 +1204,7 @@ pokemons:
   number:
     national: 170
     regional: 201
-  owned: no
+  owned: yes
 
 - name: Lanturn
   number:
