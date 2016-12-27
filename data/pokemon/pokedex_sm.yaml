@@ -184,7 +184,7 @@ pokemons:
   number:
     national: 185
     regional: 31
-  owned: no
+  owned: yes
 
 - name: Happiny
   number:
@@ -520,7 +520,7 @@ pokemons:
   number:
     national: 546
     regional: 87
-  owned: no
+  owned: yes
 
 - name: Whimsicott
   number:
@@ -1024,7 +1024,7 @@ pokemons:
   number:
     national: 761
     regional: 171
-  owned: no
+  owned: yes
 
 - name: Steenee
   number:
@@ -1048,7 +1048,7 @@ pokemons:
   number:
     national: 127
     regional: 175
-  owned: no
+  owned: yes
 
 - name: Oranguru
   number:
@@ -1246,7 +1246,7 @@ pokemons:
   number:
     national: 227
     regional: 208
-  owned: no
+  owned: yes
 
 - name: Ditto
   number:
@@ -1258,13 +1258,13 @@ pokemons:
   number:
     national: 173
     regional: 210
-  owned: no
+  owned: yes
 
 - name: Clefairy
   number:
     national: 35
     regional: 211
-  owned: no
+  owned: yes
 
 - name: Clefable
   number:
@@ -1276,25 +1276,25 @@ pokemons:
   number:
     national: 774
     regional: 213
-  owned: no
+  owned: yes
 
 - name: Beldum
   number:
     national: 374
     regional: 214
-  owned: no
+  owned: yes
 
 - name: Metang
   number:
     national: 375
     regional: 215
-  owned: no
+  owned: yes
 
 - name: Metagross
   number:
     national: 376
     regional: 216
-  owned: no
+  owned: yes
 
 - name: Porygon
   number:
