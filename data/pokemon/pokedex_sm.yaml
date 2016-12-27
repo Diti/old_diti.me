@@ -214,7 +214,7 @@ pokemons:
   number:
     national: 143
     regional: 36
-  owned: no
+  owned: yes
 
 - name: Slowpoke
   number:
@@ -286,7 +286,7 @@ pokemons:
   number:
     national: 82
     regional: 48
-  owned: no
+  owned: noyes
 
 - name: Magnezone
   number:
@@ -832,7 +832,7 @@ pokemons:
   number:
     national: 283
     regional: 139
-  owned: no
+  owned: yes
 
 - name: Masquerain
   number:
@@ -940,7 +940,7 @@ pokemons:
   number:
     national: 594
     regional: 157
-  owned: no
+  owned: yes
 
 - name: Fletchling
   number:
@@ -1030,13 +1030,13 @@ pokemons:
   number:
     national: 762
     regional: 172
-  owned: no
+  owned: yes
 
 - name: Tsareena
   number:
     national: 763
     regional: 173
-  owned: no
+  owned: yes
 
 - name: Comfey
   number:
@@ -1426,13 +1426,13 @@ pokemons:
   number:
     national: 443
     regional: 238
-  owned: no
+  owned: yes
 
 - name: Gabite
   number:
     national: 444
     regional: 239
-  owned: no
+  owned: yes
 
 - name: Garchomp
   number:
