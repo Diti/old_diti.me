@@ -196,7 +196,7 @@ pokemons:
   number:
     national: 113
     regional: 33
-  owned: no
+  owned: yes
 
 - name: Blissey
   number:
@@ -364,7 +364,7 @@ pokemons:
   number:
     national: 92
     regional: 61
-  owned: no
+  owned: yes
 
 - name: Haunter
   number:
@@ -448,13 +448,13 @@ pokemons:
   number:
     national: 627
     regional: 75
-  owned: no
+  owned: yes
 
 - name: Braviary
   number:
     national: 628
     regional: 76
-  owned: no
+  owned: yes
 
 - name: Vullaby
   number:
@@ -550,7 +550,7 @@ pokemons:
   number:
     national: 130
     regional: 92
-  owned: no
+  owned: yes
 
 - name: Barboach
   number:
@@ -772,13 +772,13 @@ pokemons:
   number:
     national: 470
     regional: 129
-  owned: no
+  owned: yes
 
 - name: Glaceon
   number:
     national: 471
     regional: 130
-  owned: no
+  owned: yes
 
 - name: Sylveon
   number:
@@ -814,7 +814,7 @@ pokemons:
   number:
     national: 40
     regional: 136
-  owned: no
+  owned: yes
 
 - name: Tauros
   number:
@@ -1012,7 +1012,7 @@ pokemons:
   number:
     national: 759
     regional: 169
-  owned: no
+  owned: yes
 
 - name: Bewear
   number:
@@ -1072,13 +1072,13 @@ pokemons:
   number:
     national: 705
     regional: 179
-  owned: no
+  owned: yes
 
 - name: Goodra
   number:
     national: 706
     regional: 180
-  owned: no
+  owned: yes
 
 - name: Castform
   number:
@@ -1174,13 +1174,13 @@ pokemons:
   number:
     national: 708
     regional: 196
-  owned: no
+  owned: yes
 
 - name: Trevenant
   number:
     national: 709
     regional: 197
-  owned: no
+  owned: yes
 
 - name: Nosepass
   number:
@@ -1210,13 +1210,13 @@ pokemons:
   number:
     national: 171
     regional: 202
-  owned: no
+  owned: yes
 
 - name: "Type: Null"
   number:
     national: 772
     regional: 203
-  owned: no
+  owned: yes
 
 - name: Silvally
   number:
@@ -1270,7 +1270,7 @@ pokemons:
   number:
     national: 36
     regional: 212
-  owned: no
+  owned: yes
 
 - name: Minior
   number:
@@ -1336,7 +1336,7 @@ pokemons:
   number:
     national: 324
     regional: 223
-  owned: no
+  owned: yes
 
 - name: Turtonator
   number:
@@ -1354,13 +1354,13 @@ pokemons:
   number:
     national: 239
     regional: 226
-  owned: no
+  owned: yes
 
 - name: Electabuzz
   number:
     national: 125
     regional: 227
-  owned: no
+  owned: yes
 
 - name: Electivire
   number:
@@ -1438,7 +1438,7 @@ pokemons:
   number:
     national: 445
     regional: 240
-  owned: no
+  owned: yes
 
 - name: Klefki
   number:
@@ -1462,7 +1462,7 @@ pokemons:
   number:
     national: 780
     regional: 244
-  owned: no
+  owned: yes
 
 - name: Absol
   number:
@@ -1498,7 +1498,7 @@ pokemons:
   number:
     national: 461
     regional: 250
-  owned: no
+  owned: yes
 
 - name: Sandshrew
   number:
@@ -1516,7 +1516,7 @@ pokemons:
   number:
     national: 37
     regional: 253
-  owned: no
+  owned: yes
 
 - name: Ninetales
   number:
@@ -1570,7 +1570,7 @@ pokemons:
   number:
     national: 369
     regional: 262
-  owned: no
+  owned: yes
 
 - name: Dhelmise
   number:
@@ -1594,13 +1594,13 @@ pokemons:
   number:
     national: 320
     regional: 266
-  owned: no
+  owned: yes
 
 - name: Wailord
   number:
     national: 321
     regional: 267
-  owned: no
+  owned: yes
 
 - name: Lapras
   number:
@@ -1624,19 +1624,19 @@ pokemons:
   number:
     national: 782
     regional: 271
-  owned: no
+  owned: yes
 
 - name: Hakamo-o
   number:
     national: 783
     regional: 272
-  owned: no
+  owned: yes
 
 - name: Kommo-o
   number:
     national: 784
     regional: 273
-  owned: no
+  owned: yes
 
 - name: Emolga
   number:
@@ -1672,31 +1672,31 @@ pokemons:
   number:
     national: 447
     regional: 279
-  owned: no
+  owned: yes
 
 - name: Lucario
   number:
     national: 448
     regional: 280
-  owned: no
+  owned: yes
 
 - name: Dratini
   number:
     national: 147
     regional: 281
-  owned: no
+  owned: yes
 
 - name: Dragonair
   number:
     national: 148
     regional: 282
-  owned: no
+  owned: yes
 
 - name: Dragonite
   number:
     national: 149
     regional: 283
-  owned: no
+  owned: yes
 
 - name: Aerodactyl
   number:
