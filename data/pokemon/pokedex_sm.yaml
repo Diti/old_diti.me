@@ -148,7 +148,7 @@ pokemons:
   number:
     national: 25
     regional: 25
-  owned: no
+  owned: yes
 
 - name: Raichu
   number:
@@ -286,7 +286,7 @@ pokemons:
   number:
     national: 82
     regional: 48
-  owned: noyes
+  owned: yes
 
 - name: Magnezone
   number:
@@ -304,7 +304,7 @@ pokemons:
   number:
     national: 89
     regional: 51
-  owned: no
+  owned: yes
 
 - name: Growlithe
   number:
@@ -394,7 +394,7 @@ pokemons:
   number:
     national: 200
     regional: 66
-  owned: no
+  owned: yes
 
 - name: Mismagius
   number:
@@ -1558,7 +1558,7 @@ pokemons:
   number:
     national: 422
     regional: 260
-  owned: no
+  owned: yes
 
 - name: Gastrodon
   number:
@@ -1588,7 +1588,7 @@ pokemons:
   number:
     national: 319
     regional: 265
-  owned: no
+  owned: yes
 
 - name: Wailmer
   number:
@@ -1660,7 +1660,7 @@ pokemons:
   number:
     national: 198
     regional: 277
-  owned: no
+  owned: yes
 
 - name: Honchkrow
   number:

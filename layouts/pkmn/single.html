@@ -16,9 +16,13 @@
       {{- end -}}
 
       <p>
-        The following table lists the {{ $.Scratch.Get "pkmnLeft" }} pokémons in Pokémon Moon that I
-        <em>do <strong>not</strong> own</em>, and am willing to trade.
-      </p>
+        The following table lists the
+        {{- with $.Scratch.Get "pkmnLeft" -}}
+          {{- if ge . 2 }} {{ $.Scratch.Get "pkmnLeft" }} pokémons {{- end -}}
+          {{- if eq . 1 }} pokémon {{- end -}}
+      {{ end }}
+        in Pokémon Moon that I <em>do <strong>not</strong> own</em>, and am willing to trade.
+      </p>      
 
       <table>
         <thead>
@@ -28,23 +32,22 @@
           </tr>
         </thead>
         <tbody>
-          {{- range $myPokedex.pokemons -}}
-            {{ if not .owned }}
-              <tr>
-                <td>{{ printf "%03d" .number.regional }}</td>
-                <td>
-                  {{- if .number.national -}}
-                    <a href="http://www.serebii.net/pokedex-sm/{{ printf "%03d" .number.national }}.shtml">{{ .name }}</a>
-                  {{- else -}}
-                    {{ .name }}
-                  {{- end -}}
-                </td>
-              </tr>
-            {{- end -}}
+        {{- range $myPokedex.pokemons -}}
+          {{- if not .owned }}
+          <tr>
+            <td>{{ printf "%03d" .number.regional }}</td>
+            <td>
+              {{- if .number.national -}}
+                <a href="http://www.serebii.net/pokedex-sm/{{ printf "%03d" .number.national }}.shtml">{{ .name }}</a>
+              {{- else -}}
+                {{ .name }}
+              {{- end -}}
+            </td>
+          </tr>
           {{- end -}}
+        {{- end -}}
         </tbody>
       </table>
-
     </div>
   </div>
 
