@@ -202,7 +202,7 @@ pokemons:
   number:
     national: 242
     regional: 34
-  owned: no
+  owned: yes
 
 - name: Munchlax
   number:
@@ -226,13 +226,13 @@ pokemons:
   number:
     national: 80
     regional: 38
-  owned: no
+  owned: yes
 
 - name: Slowking
   number:
     national: 199
     regional: 39
-  owned: no
+  owned: yes
 
 - name: Wingull
   number:
@@ -358,7 +358,7 @@ pokemons:
   number:
     national: 740
     regional: 60
-  owned: no
+  owned: yes
 
 - name: Gastly
   number:
@@ -400,7 +400,7 @@ pokemons:
   number:
     national: 429
     regional: 67
-  owned: no
+  owned: yes
 
 - name: Zubat
   number:
@@ -418,7 +418,7 @@ pokemons:
   number:
     national: 169
     regional: 70
-  owned: no
+  owned: yes
 
 - name: Diglett
   number:
@@ -466,7 +466,7 @@ pokemons:
   number:
     national: 630
     regional: 78
-  owned: no
+  owned: yes
 
 - name: Mankey
   number:
@@ -478,7 +478,7 @@ pokemons:
   number:
     national: 57
     regional: 80
-  owned: no
+  owned: yes
 
 - name: Delibird
   number:
@@ -514,7 +514,7 @@ pokemons:
   number:
     national: 549
     regional: 86
-  owned: no
+  owned: yes
 
 - name: Cottonee
   number:
@@ -526,7 +526,7 @@ pokemons:
   number:
     national: 547
     regional: 88
-  owned: no
+  owned: yes
 
 - name: Psyduck
   number:
@@ -652,7 +652,7 @@ pokemons:
   number:
     national: 457
     regional: 109
-  owned: no
+  owned: yes
 
 - name: Wishiwashi
   number:
@@ -796,7 +796,7 @@ pokemons:
   number:
     national: 750
     regional: 133
-  owned: no
+  owned: yes
 
 - name: Igglybuff
   number:
@@ -910,7 +910,7 @@ pokemons:
   number:
     national: 186
     regional: 152
-  owned: no
+  owned: yes
 
 - name: Goldeen
   number:
@@ -1006,7 +1006,7 @@ pokemons:
   number:
     national: 467
     regional: 168
-  owned: no
+  owned: yes
 
 - name: Stufful
   number:
@@ -1066,7 +1066,7 @@ pokemons:
   number:
     national: 704
     regional: 178
-  owned: no
+  owned: yes
 
 - name: Sliggoo
   number:
@@ -1138,37 +1138,37 @@ pokemons:
   number:
     national: 410
     regional: 190
-  owned: no
+  owned: yes
 
 - name: Bastiodon
   number:
     national: 411
     regional: 191
-  owned: no
+  owned: yes
 
 - name: Archen
   number:
     national: 566
     regional: 192
-  owned: no
+  owned: yes
 
 - name: Archeops
   number:
     national: 567
     regional: 193
-  owned: no
+  owned: yes
 
 - name: Tirtouga
   number:
     national: 564
     regional: 194
-  owned: no
+  owned: yes
 
 - name: Carracosta
   number:
     national: 565
     regional: 195
-  owned: no
+  owned: yes
 
 - name: Phantump
   number:
@@ -1198,7 +1198,7 @@ pokemons:
   number:
     national: 771
     regional: 200
-  owned: no
+  owned: yes
 
 - name: Chinchou
   number:
@@ -1222,7 +1222,7 @@ pokemons:
   number:
     national: 773
     regional: 204
-  owned: no
+  owned: yes
 
 - name: Zygarde
   number:
@@ -1306,13 +1306,13 @@ pokemons:
   number:
     national: 233
     regional: 218
-  owned: no
+  owned: yes
 
 - name: Porygon-Z
   number:
     national: 474
     regional: 219
-  owned: no
+  owned: yes
 
 - name: Pancham
   number:
@@ -1366,7 +1366,7 @@ pokemons:
   number:
     national: 466
     regional: 228
-  owned: no
+  owned: yes
 
 - name: Geodude
   number:
@@ -1480,13 +1480,13 @@ pokemons:
   number:
     national: 362
     regional: 247
-  owned: no
+  owned: yes
 
 - name: Froslass
   number:
     national: 478
     regional: 248
-  owned: no
+  owned: yes
 
 - name: Sneasel
   number:
@@ -1522,7 +1522,7 @@ pokemons:
   number:
     national: 38
     regional: 254
-  owned: no
+  owned: yes
 
 - name: Vanillite
   number:
@@ -1582,7 +1582,7 @@ pokemons:
   number:
     national: 318
     regional: 264
-  owned: no
+  owned: yes
 
 - name: Sharpedo
   number:
@@ -1606,7 +1606,7 @@ pokemons:
   number:
     national: 131
     regional: 268
-  owned: no
+  owned: yes
 
 - name: Exeggcute
   number:
@@ -1654,7 +1654,7 @@ pokemons:
   number:
     national: 212
     regional: 276
-  owned: no
+  owned: yes
 
 - name: Murkrow
   number:
@@ -1666,7 +1666,7 @@ pokemons:
   number:
     national: 430
     regional: 278
-  owned: no
+  owned: yes
 
 - name: Riolu
   number:
