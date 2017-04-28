@@ -1,7 +1,6 @@
 ---
 date: 2016-09-16
 title: Kraaa!
-type: index
 url: index.html
 weight: 0
 ---

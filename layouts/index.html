@@ -5,6 +5,7 @@
 		<div class="content container">
 			<div class="post">
 			 	<h1>{{ .Title }}</h1>
+        {{ .Content }}
                 {{ range .Data.Pages }}
                     {{if eq .RelPermalink "/index.html" }} {{.Content}} {{end}}
                 {{ end }}
