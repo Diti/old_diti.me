@@ -4,32 +4,10 @@ title: Kraaa!
 weight: 0
 ---
 
-I’m **Diti**, an enthusiastic european “pengeek”, born 1990-05-26.
-I am a [42][SCHOOL] student, currently working at [Gemalto][WORK].
+I’m **Diti** — officially Dimitri Torterat, European French individual born in 1990.
+I live in the Paris area, and would be willing to move to Lyon someday.
+I study at [42](https://www.42.us.org/), the French hacker school.
 
 <!-- On the internet, nobody knows I’m a penguin. -->
 
-I invite you to read about [**my experiments**][POSTS],
-to have a look at [my reading list][READS],
-and to [contact me][CONTACT] if you want to chat!
-
 {{< latestContent >}}
-
-Interests
----------
-
-* Animals
-  * **Emperor penguin**; barn owl; red panda; opossum; bat
-* Drawing & photography
-* **Android programming**
-* Cryptography
-  * OpenPGP; PKI and digital certificates
-* Aircraft
-  * Gliders; fighter planes (A-29, M-2000C, A-10C)
-
-
-[CONTACT]: {{< ref "contact.md" >}}
-[POSTS]: /post
-[READS]: /read
-[SCHOOL]: https://www.42.us.org "School 42"
-[WORK]: http://www.gemalto.com
