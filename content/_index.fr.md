@@ -1,19 +1,23 @@
 ---
-date: 2016-09-16
-title: Kraaa!
+date: 2017-06-21
+title: Kraaa !
 weight: 0
 ---
 
-I’m **Diti**, an enthusiastic european “pengeek”, born 1990-05-26.
-I am a [42][SCHOOL] student, currently working at [Gemalto][WORK].
+Je suis **Diti** – officiellement Dimtri Torterat, français européen né en 1990.
+J’habite en région parisienne, et souhaite déménager à Lyon dans le futur.
+J’étudie à l’[école 42](https://www.42.fr/), où je prépare un [diplôme bac +5](http://metiers.internet.gouv.fr/formation/1001117).
 
-<!-- On the internet, nobody knows I’m a penguin. -->
+<!-- Sur internet, personne ne sait que je suis un manchot. -->
+
+{{< latestContent >}}
+
+
+[Last posts] [Last projects] [Last reads]
 
 I invite you to read about [**my experiments**][POSTS],
 to have a look at [my reading list][READS],
 and to [contact me][CONTACT] if you want to chat!
-
-{{< latestContent >}}
 
 Interests
 ---------

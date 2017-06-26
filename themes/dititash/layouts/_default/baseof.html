@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>
+  {{- block "title" . -}}
+    {{ .Page.Title }} – {{ .Site.Title }}
+  {{- end -}}
+</title>
+<style>
+  nav .active { font-weight: bolder; }
+</style>
+
+<body>
+
+<nav>
+{{- $currPage := . }}
+{{- range .Site.Menus.main }}
+  <a {{- if or ($currPage.IsMenuCurrent "main" .) ($currPage.HasMenuCurrent "main" .) }} class="active" {{ end }} href="{{.URL}}">{{ .Name }}</a>
+{{- end }}
+</nav>
+
+<p>{{ i18n "copyright" }}</p>
+
+{{ block "main" . }}{{ end }}
+
+</body>

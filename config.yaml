@@ -1,0 +1,57 @@
+baseurl: "https://diti.me/"
+title: "Diti [dot] me"
+theme: "dititash"
+
+sectionPagesMenu: "main"
+menu:
+  main:
+    - name: "Posts"
+      identifier: "post"
+      url: "/post/"
+      weight: 10
+#    - name: "Projects"
+#      url: "./proj/"
+#      weight: 20
+#    - name: "Characters"
+#      identifier: "character"
+#      url: "/char/"
+#      weight: 30
+
+params:
+  copyright: "2017 © Dimitri “Diti” Torterat – Creative Commons [BY SA 🇫 🇷 ](https://creativecommons.org/licenses/by-sa/3.0/fr/)"
+
+# i18n
+EnableMissingTranslationPlaceholders: true
+languages:
+  en:
+    languageCode: "en-us"
+  fr:
+    languageCode: "fr-fr"
+
+permalinks:
+  char: "/char/:title/"
+  post: "/post/:title/"
+  page: "/:title/"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+# Cosmetic & internal settings
+enableGitInfo: true
+
+blackfriday:
+  smartypants: false
+  fractions: false
+  smartDashes: false
+  plainIDAnchors: true
+canonifyUrls: true
+footnoteAnchorPrefix: "note-"
+footnoteReturnLinkContents: "↩"
+metadataFormat: "yaml"
+pygmentscodefences: true
+pygmentsuseclasses: true
+
+outputs:
+  home: [ "HTML", "AMP", "RSS" ]
+  page: [ "HTML" ]
