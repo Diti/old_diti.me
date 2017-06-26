@@ -5,21 +5,45 @@
     {{ .Page.Title }} – {{ .Site.Title }}
   {{- end -}}
 </title>
+{{- if .IsTranslated -}}
+  {{- range .Translations }}
+<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+  {{- end }}
+{{- end }}
 <style>
   nav .active { font-weight: bolder; }
+  table { border-collapse: collapse; }
+  td, th { padding: 0.5rem; text-align: left; border: 1px solid #999; }
+  #lang-select { position: absolute; top: 0; right: 0; }
 </style>
 
 <body>
 
 <nav>
+  <a href="{{ "/" | absLangURL }}">{{ i18n "global.home" }}</a>
 {{- $currPage := . }}
 {{- range .Site.Menus.main }}
-  <a {{- if or ($currPage.IsMenuCurrent "main" .) ($currPage.HasMenuCurrent "main" .) }} class="active" {{ end }} href="{{.URL}}">{{ .Name }}</a>
+  <a {{- if or ($currPage.IsMenuCurrent "main" .) ($currPage.HasMenuCurrent "main" .) }} class="active" {{ end }} href="{{ .URL | absLangURL }}">{{ .Name }}</a>
 {{- end }}
+{{ with .Site.GetPage "page" "contact.md" }}<a href="{{ .Permalink }}">{{ .Title }}</a>{{ end }}
+
+  <aside id="lang-select">
+    <nav>
+    {{- if .IsTranslated }}
+      {{- range .Translations }}
+      <a href="{{ .Permalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}" title="{{ .Title }}">{{ .Language.LanguageName }}</a>
+      {{- end }}
+    {{- end }}
+    </nav>
+  </aside>
 </nav>
 
-<p>{{ i18n "copyright" }}</p>
-
 {{ block "main" . }}{{ end }}
+
+{{- with .Site.Copyright }}
+<footer>
+  <p>{{ replace . "{year}" now.Year }}</p>
+</footer>
+{{- end }}
 
 </body>

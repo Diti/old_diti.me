@@ -1,0 +1,20 @@
+- id: "global.home"
+  translation: "Home"
+
+- id: "shortcodes.latestContent.recent"
+  translation: "Recent content"
+
+- id: "shortcodes.latestContent.latest_posts"
+  translation:
+    one: "Latest post"
+    other: "Latest posts"
+
+- id: "shortcodes.latestContent.latest_projs"
+  translation:
+    one: "Latest project"
+    other: "Latest projects"
+
+- id: "shortcodes.latestContent.latest_reads"
+  translation:
+    one: "Latest read"
+    other: "Latest reads"

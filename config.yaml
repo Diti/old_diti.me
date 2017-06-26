@@ -1,4 +1,4 @@
-baseurl: "https://diti.me/"
+baseUrl: "https://diti.me/"
 title: "Diti [dot] me"
 theme: "dititash"
 
@@ -17,16 +17,17 @@ menu:
 #      url: "/char/"
 #      weight: 30
 
-params:
-  copyright: "2017 © Dimitri “Diti” Torterat – Creative Commons [BY SA 🇫 🇷 ](https://creativecommons.org/licenses/by-sa/3.0/fr/)"
+copyright: "{year} © Dimitri “Diti” Torterat"
 
 # i18n
 EnableMissingTranslationPlaceholders: true
 languages:
   en:
-    languageCode: "en-us"
+    languageCode: "en"
+    languageName: "English"
   fr:
-    languageCode: "fr-fr"
+    languageCode: "fr"
+    languageName: "Français"
 
 permalinks:
   char: "/char/:title/"
@@ -53,5 +54,5 @@ pygmentscodefences: true
 pygmentsuseclasses: true
 
 outputs:
-  home: [ "HTML", "AMP", "RSS" ]
+  home: [ "HTML", "RSS" ]
   page: [ "HTML" ]

@@ -1,0 +1,13 @@
+<table style="display: inline;">
+  <tr><th>{{ i18n "shortcodes.latestContent.latest_posts" (len (where .Site.RegularPages "Section" "post")) }}</th></tr>
+  {{- range first 5 (where .Site.RegularPages "Section" "post") }}
+  <tr><td><a href="{{ .Permalink }}">{{ .Title }}</a></td></tr>
+  {{- end }}
+</table>
+
+<table style="display: inline;">
+  <tr><th>{{ i18n "shortcodes.latestContent.latest_reads" (len (where .Site.RegularPages "Section" "read")) }}</th></tr>
+  {{- range first 5 (where .Site.RegularPages "Section" "read") }}
+  <tr><td><a href="{{ .Permalink }}">{{ .Title }}</a></td></tr>
+  {{- end }}
+</table>
