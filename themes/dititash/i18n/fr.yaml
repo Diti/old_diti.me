@@ -1,6 +1,9 @@
 - id: "global.home"
   translation: "Accueil"
 
+- id: "global.gitinfo.last_updated"
+  translation: "Révision :"
+
 - id: "shortcodes.latestContent.recent"
   translation: "Contenu récent"
 

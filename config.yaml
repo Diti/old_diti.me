@@ -2,6 +2,8 @@ baseUrl: "https://diti.me/"
 title: "Diti [dot] me"
 theme: "dititash"
 
+enableGitInfo: true
+
 sectionPagesMenu: "main"
 menu:
   main:
@@ -24,10 +26,10 @@ EnableMissingTranslationPlaceholders: true
 languages:
   en:
     languageCode: "en"
-    languageName: "English"
+    languageName: "🇬🇧 English"
   fr:
     languageCode: "fr"
-    languageName: "Français"
+    languageName: "🇫🇷 Français"
 
 permalinks:
   char: "/char/:title/"
