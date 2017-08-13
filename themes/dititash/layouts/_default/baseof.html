@@ -52,7 +52,7 @@
   </div>
 </section>
 
-{{ with . -}}
+{{ with .GitInfo -}}
 <section id="gitinfo">
   <p>{{ i18n "global.gitinfo.last_updated" }} <samp><a href="https://github.com/Diti/diti.me/commit/{{ .Hash }}">{{ .AbbreviatedHash }}
   </a></samp> @ {{ .AuthorDate | dateFormat "2006-01-02" }}</p>
