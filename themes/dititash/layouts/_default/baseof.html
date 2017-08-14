@@ -37,23 +37,29 @@
   </nav>
 
   <section id="content" class="section">
-    <div class="container content">
-      {{ block "main" . }}{{ end }}
+    <div class="container">
+      <div class="content is-size-5-desktop">
+        {{ block "main" . }}{{ end }}
+      </div>
     </div>
   </section>
 
   <section id="lastmod-opensource" class="section">
-    <div class="container content has-text-grey-light">
-      <p>{{ i18n "global.page_last_modified" . }}</p>
-      {{- with .GitInfo }} {{ printf "<!-- %s – “%s” – %s/commit/%s -->" .AbbreviatedHash .Subject $.Site.Params.ghrepo .Hash | safeHTML }} {{- end }}
-      <p>{{ i18n "global.page_is_open-source" (dict "GhFileUrl" (printf "%s/blob/master/content/%s" $.Site.Params.ghrepo $.File.Path)) | markdownify }}</p>
-  </div>
-</section>
+    <div class="container">
+      <div class="content has-text-grey-light">
+        <p>{{ i18n "global.page_last_modified" . }}</p>
+        {{- with .GitInfo }} {{ printf "<!-- %s – “%s” – %s/commit/%s -->" .AbbreviatedHash .Subject $.Site.Params.ghrepo .Hash | safeHTML }} {{- end }}
+        <p>{{ i18n "global.page_is_open-source" (dict "GhFileUrl" (printf "%s/blob/master/content/%s" $.Site.Params.ghrepo $.File.Path)) | markdownify }}</p>
+      </div>
+    </div>
+  </section>
 
-<footer class="footer">
-  <div class="content has-text-centered">
-    {{ with .Site.Copyright }}<p>{{ replace . "{year}" now.Year }}</p>{{ end }}
-  </div>
-</footer>
+  <footer class="footer">
+    <div class="container">
+      <div class="content has-text-centered">
+        {{ with .Site.Copyright }}<p>{{ replace . "{year}" now.Year }}</p>{{ end }}
+      </div>
+    </div>
+  </footer>
 
 </body>
