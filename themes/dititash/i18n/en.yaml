@@ -1,23 +1,26 @@
-- id: "global.home"
-  translation: "Home"
+- id: 'global.home'
+  translation: 'Home'
 
-- id: "global.gitinfo.last_updated"
-  translation: "Revision:"
+- id: 'global.page_is_open-source'
+  translation: 'This page is *open source*. You may [improve it on GitHub]({{ .GhFileUrl }}).'
 
-- id: "shortcodes.latestContent.recent"
-  translation: "Recent content"
+- id: 'global.page_last_modified'
+  translation: '“{{ .Title }}” was last updated on {{ .Lastmod.Format "2006-01-02" }}.'
 
-- id: "shortcodes.latestContent.latest_posts"
+- id: 'shortcodes.latestContent.recent'
+  translation: 'Recent content'
+
+- id: 'shortcodes.latestContent.latest_posts'
   translation:
-    one: "Latest post"
-    other: "Latest posts"
+    one: 'Latest post'
+    other: 'Latest posts'
 
-- id: "shortcodes.latestContent.latest_projs"
+- id: 'shortcodes.latestContent.latest_projs'
   translation:
-    one: "Latest project"
-    other: "Latest projects"
+    one: 'Latest project'
+    other: 'Latest projects'
 
-- id: "shortcodes.latestContent.latest_reads"
+- id: 'shortcodes.latestContent.latest_reads'
   translation:
-    one: "Latest read"
-    other: "Latest reads"
+    one: 'Latest read'
+    other: 'Latest reads'

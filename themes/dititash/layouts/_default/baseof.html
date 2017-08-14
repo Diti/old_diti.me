@@ -13,54 +13,48 @@
 <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
 {{- end }}
 {{- end }}
-<style>
-  nav .active { font-weight: bolder; }
-  table { border-collapse: collapse; }
-  td, th { padding: 0.5rem; text-align: left; border: 1px solid #999; }
-  #lang-select { position: absolute; top: 0; right: 0; }
-</style>
 
 <body>
 
-<pre>{{ printf "%#v" .GitInfo }}</pre>
-
-<nav class="navbar">
-  <div class="navbar-brand">
-    <a class="navbar-item" href="{{ "/" | absLangURL }}">{{ i18n "global.home" }}</a>
-  </div>
-  <div class="navbar-menu is-active">
-    <div class="navbar-start">
-      {{- range .Site.Menus.main }}
-      <a class="navbar-item{{- if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} active {{- end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-      {{- end }}
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item{{- if .IsHome }} active {{- end }}" href="{{ "/" | absLangURL }}">{{ i18n "global.home" }}</a>
     </div>
-    <div class="navbar-end">
-      {{- if .IsTranslated }}
-      {{- range .Translations }}
-      <a class="navbar-item" href="{{ .Permalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}" title="{{ .Title }}">{{ .Language.LanguageName }}</a>
-      {{- end }}
-      {{- end }}
+    <div class="navbar-menu is-active">
+      <div class="navbar-start">
+        {{- range .Site.Menus.main }}
+        <a class="navbar-item{{- if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} active {{- end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+        {{- end }}
+      </div>
+      <div class="navbar-end">
+        {{- if .IsTranslated }}
+        {{- range .Translations }}
+        <a class="navbar-item" href="{{ .Permalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}" title="{{ .Title }}">{{ .Language.LanguageName }}</a>
+        {{- end }}
+        {{- end }}
+      </div>
     </div>
-  </div>
+  </nav>
 
-</nav>
+  <section id="content" class="section">
+    <div class="container content">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </section>
 
-
-<section id="content" class="section">
-  <div class="container">
-    {{ block "main" . }}{{ end }}
+  <section id="lastmod-opensource" class="section">
+    <div class="container content has-text-grey-light">
+      <p>{{ i18n "global.page_last_modified" . }}</p>
+      {{- with .GitInfo }} {{ printf "<!-- %s – “%s” – %s/commit/%s -->" .AbbreviatedHash .Subject $.Site.Params.ghrepo .Hash | safeHTML }} {{- end }}
+      <p>{{ i18n "global.page_is_open-source" (dict "GhFileUrl" (printf "%s/blob/master/content/%s" $.Site.Params.ghrepo $.File.Path)) | markdownify }}</p>
+    </p>
   </div>
 </section>
-
-{{ with .GitInfo -}}
-<section id="gitinfo">
-  <p>{{ i18n "global.gitinfo.last_updated" }} <samp><a href="https://github.com/Diti/diti.me/commit/{{ .Hash }}">{{ .AbbreviatedHash }}
-  </a></samp> @ {{ .AuthorDate | dateFormat "2006-01-02" }}</p>
-</section>
-{{- end }}
 
 <footer class="footer">
-  {{ with .Site.Copyright }}<p>{{ replace . "{year}" now.Year }}</p>{{ end }}
+  <div class="content has-text-centered">
+    {{ with .Site.Copyright }}<p>{{ replace . "{year}" now.Year }}</p>{{ end }}
+  </div>
 </footer>
 
 </body>

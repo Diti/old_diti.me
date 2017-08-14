@@ -2,6 +2,9 @@ baseUrl: "https://diti.me/"
 title: "Diti [dot] me"
 theme: "dititash"
 
+params:
+  ghrepo: "https://github.com/Diti/diti.me"
+
 enableGitInfo: true
 
 sectionPagesMenu: "main"
