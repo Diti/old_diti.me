@@ -47,7 +47,6 @@
       <p>{{ i18n "global.page_last_modified" . }}</p>
       {{- with .GitInfo }} {{ printf "<!-- %s – “%s” – %s/commit/%s -->" .AbbreviatedHash .Subject $.Site.Params.ghrepo .Hash | safeHTML }} {{- end }}
       <p>{{ i18n "global.page_is_open-source" (dict "GhFileUrl" (printf "%s/blob/master/content/%s" $.Site.Params.ghrepo $.File.Path)) | markdownify }}</p>
-    </p>
   </div>
 </section>
 
