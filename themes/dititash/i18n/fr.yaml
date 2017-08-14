@@ -7,6 +7,9 @@
 - id: 'global.page_last_modified'
   translation: '« {{ .Title }} » a été mise à jour pour la dernière fois le {{ .Lastmod.Format "2006-01-02" }}.'
 
+- id: 'global.page_updates'
+  translation: 'Mises à jour de la page'
+
 - id: 'shortcodes.latestContent.recent'
   translation: 'Contenu récent'
 

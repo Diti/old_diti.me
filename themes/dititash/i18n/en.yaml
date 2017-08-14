@@ -5,7 +5,10 @@
   translation: 'This page is *open source*. You may [improve it on GitHub]({{ .GhFileUrl }}).'
 
 - id: 'global.page_last_modified'
-  translation: '“{{ .Title }}” was last updated on {{ .Lastmod.Format "2006-01-02" }}.'
+  translation: '“{{ .Title }}” was last updated on {{ .Date }}.'
+
+- id: 'global.page_updates'
+  translation: 'Page updates'
 
 - id: 'shortcodes.latestContent.recent'
   translation: 'Recent content'
