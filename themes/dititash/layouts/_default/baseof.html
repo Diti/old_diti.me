@@ -6,8 +6,7 @@
     {{ .Page.Title }} – {{ .Site.Title }}
   {{- end -}}
 </title>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.5.1/css/bulma.min.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/bulma.css">
 {{ if .IsTranslated -}}
   {{- range .Translations -}}
     <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
