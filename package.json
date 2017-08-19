@@ -1,8 +1,0 @@
-{
-  "private": true,
-  "name": "diti.me",
-  "version": "0.0.1",
-  "dependencies": {
-    "bulma": "^0.5.1"
-  }
-}
